@@ -1,5 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
-name: Deploy static content to Pages
+name: Updates the Publication List and Deploy static content to Pages
 
 on:
   push:
@@ -32,7 +32,7 @@ jobs:
 
       - name: Copy the README to index for Jekyll
         run: |
-          cat <(echo "---"; echo "title: Index"; echo "layout: home"; echo "---"; echo "") README.md > index.md
+          cat <(echo "---"; echo "title: Index"; echo "layout: post"; echo "---"; echo "") README.md > index.md
           cat index.md
           ls
 
