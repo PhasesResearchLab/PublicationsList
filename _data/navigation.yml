@@ -1,0 +1,19 @@
+# main links
+main:
+  - title: "Home"
+    url: https://phaseslab.com/
+  - title: "Software Projects"
+    url: https://phasesresearchlab.github.io/SoftwareProjects/
+  - title: "Web of Science"
+    url: https://publons.com/researcher/2872560/zi-kui-liu/
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?hl=en&user=XEkppu4AAAAJ
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+sidebar:
+  - title: ""
+    url: 

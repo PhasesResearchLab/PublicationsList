@@ -32,7 +32,7 @@ jobs:
 
       - name: Copy the README to index for Jekyll
         run: |
-          cat <(echo "---"; echo "title: Index"; echo "layout: post"; echo "---"; echo "") README.md > index.md
+          cat <(echo "---"; echo "layout: single"; echo "toc: true"; echo "toc_label: 'Publications List'"; echo "sidebar:"; echo "  nav: 'sidebar'"; echo "---"; echo "") README.md > index.md
           cat index.md
           ls
 
