@@ -20,7 +20,11 @@ arXiv: [abs/2308.05837](http://arxiv.org/abs/2308.05837)
 ---
 **2\.** Jinhui Huang, Shuhong Liu, Martin Friák, Chengliang Qiu, Shun-Li Shang, Zi-Kui Liu, and Yong Du, _Theory-guided materials design of multiphase alloys with superior stiffness at finite temperatures_, Acta Mater., Accepted, Feb 2024.
 
+
+
 **1\.** Beril Tonyali, Hui Sun, Brandon Bocklund, John Paul Borgonia, Richard A. Otis, Shun-Li Shang, Zi-Kui Liu, and Allison M. Beese, _Additively manufactured Ni-20Cr to V functionally graded material: computational predictions and experimental verification of phase formations_, J. Alloys Compd., Accepted, Feb 2024.
+
+
 
 # ARTICLES
 ---
@@ -40,9 +44,7 @@ DOI: [10.1016/j.actamat.2024.119747](https://doi.org/10.1016/j.actamat.2024.1197
 
 <div id='603'></div> **603.** Zi-Kui Liu, Nigel L. E. Hew, and Shun-Li Shang, _Zentropy theory for accurate prediction of free energy, volume, and thermal expansion without fitting parameters_, Microstructures 4 (2024) 2024009.
 
-DOI: [10.20517/microstructures.2023.56](https://dx.doi.org/10.20517/microstructures.2023.56)
-
- \| arXiv: [abs/2310.06527](https://arxiv.org/abs/2310.06527)
+DOI: [10.20517/microstructures.2023.56](https://dx.doi.org/10.20517/microstructures.2023.56) \| arXiv: [abs/2310.06527](https://arxiv.org/abs/2310.06527)
 
 
 <details style='margin-bottom: 20px;'>
@@ -67,9 +69,7 @@ DOI: [10.1016/j.msea.2023.145851](https://doi.org/10.1016/j.msea.2023.145851)
 
 <div id='600'></div> **600.** Zi-Kui Liu, _Building materials genome from ground‐state configuration to engineering advance_, Mater. Genome Eng. Adv. (2023) e15.
 
-DOI: [10.1002/mgea.15](https://doi.org/10.1002/mgea.15)
-
- \| arXiv: [abs/2309.09821](https://arxiv.org/abs/2309.09821)
+DOI: [10.1002/mgea.15](https://doi.org/10.1002/mgea.15) \| arXiv: [abs/2309.09821](https://arxiv.org/abs/2309.09821)
 
 
 <details style='margin-bottom: 20px;'>
@@ -103,9 +103,7 @@ DOI: [10.1016/j.actamat.2023.119341](https://doi.org/10.1016/j.actamat.2023.1193
 
 <div id='596'></div> **596.** Jorge Paz Soldan Palma, Rushi Gong, Brandon J. Bocklund, Richard Otis, Max Poschmann, Markus Piro, Shayan Shahbazi, Tatiana G. Levitskaia, Shenyang Hu, Nathan D. Smith, Yi Wang, Hojong Kim, Zi-Kui Liu, and Shun-Li Shang, _Thermodynamic modeling with uncertainty quantification using the modified quasichemical model in quadruplet approximation: Implementation into PyCalphad and ESPEI_, CALPHAD 83 (2023) 102618.
 
-DOI: [10.5281/zenodo.6471272](https://doi.org/10.5281/zenodo.6471272)
-
- \| arXiv: [abs/2204.09111](http://arxiv.org/abs/2204.09111)
+DOI: [10.1016/j.calphad.2023.102618](https://doi.org/10.1016/j.calphad.2023.102618) \| arXiv: [abs/2204.09111](http://arxiv.org/abs/2204.09111) \| URL: [10.5281/zenodo.6471272](https://doi.org/10.5281/zenodo.6471272)
 
 
 
@@ -129,9 +127,7 @@ DOI: [10.1016/j.jma.2021.11.024](https://doi.org/10.1016/j.jma.2021.11.024)
 
 <div id='592'></div> **592.** G. B. Olson and Z. K. Liu, _Genomic materials design: CALculation of PHAse Dynamics_, CALPHAD. 82 (2023) 102590,  
 
-DOI: [10.1016/j.calphad.2023.102590](https://doi.org/10.1016/j.calphad.2023.102590)
-
- \| arXiv: [abs/2305.05060](https://arxiv.org/abs/2305.05060)
+DOI: [10.1016/j.calphad.2023.102590](https://doi.org/10.1016/j.calphad.2023.102590) \| arXiv: [abs/2305.05060](https://arxiv.org/abs/2305.05060)
 
 
 
@@ -196,9 +192,7 @@ DOI: [10.1016/j.pnsc.2023.02.006](https://doi.org/10.1016/j.pnsc.2023.02.006)
 
 <div id='582'></div> **582.** Z.-K. Liu, S.-L. Shang, J. Du, and Y. Wang, _Parameter-free prediction of phase transition in PbTiO3 through combination of quantum mechanics and statistical mechanics_, Scr. Mater. 232 (2023) 115480.
 
-DOI: [10.1016/j.scriptamat.2023.115480](https://doi.org/10.1016/j.scriptamat.2023.115480)
-
- \| arXiv: [abs/2203.16422](https://arxiv.org/abs/2203.16422)
+DOI: [10.1016/j.scriptamat.2023.115480](https://doi.org/10.1016/j.scriptamat.2023.115480) \| arXiv: [abs/2203.16422](https://arxiv.org/abs/2203.16422)
 
 
 
@@ -341,17 +335,13 @@ DOI: [10.1016/j.actamat.2021.117448](https://doi.org/10.1016/j.actamat.2021.1174
 
 <div id='561'></div> **561.** J. D. Shimanek, S. P. Qin, S. L. Shang, Z. K. Liu, and A. M. Beese, _Predictive crystal plasticity modeling of single crystal nickel based on first-principles calculations_, JOM 74 (2022) 1423-1434.
 
-DOI: [10.1007/s11837-022-05175-6](https://doi.org/10.1007/s11837-022-05175-6)
-
- \| arXiv: [abs/2002.08552](http://arxiv.org/abs/2002.08552)
+DOI: [10.1007/s11837-022-05175-6](https://doi.org/10.1007/s11837-022-05175-6) \| arXiv: [abs/2002.08552](http://arxiv.org/abs/2002.08552)
 
 
 
 <div id='560'></div> **560.** A. M. Krajewski, J. W. Siegel, J. C. Xu, and Z. K. Liu, _Extensible Structure-Informed Prediction of Formation Energy with Improved Accuracy and Usability employing Neural Networks_, Comput. Mater. Sci. 208 (2022) 111254
 
-DOI: [10.1016/j.commatsci.2022.111254](https://doi.org/10.1016/j.commatsci.2022.111254)
-
- \| arXiv: [abs/2008.13654](https://arxiv.org/abs/2008.13654)
+DOI: [10.1016/j.commatsci.2022.111254](https://doi.org/10.1016/j.commatsci.2022.111254) \| arXiv: [abs/2008.13654](https://arxiv.org/abs/2008.13654)
 
 
 
@@ -685,9 +675,7 @@ DOI: [10.1016/j.eng.2020.05.001](https://doi.org/10.1016/j.eng.2020.05.001)
 
 <div id='517'></div> **517.** Zi-Kui Liu, _View and Comments on Data Ecosystem: Ocean of Data_, Engineering, Vol 6, Issue 6 (2020) p. 604-608,  in Chinese at 
 
-DOI: [10.1016/j.eng.2020.04.009](https://doi.org/10.1016/j.eng.2020.04.009)
-
- \| URL: [ch/10.1016/j.eng.2020.04.009](http://www.engineering.org.cn/ch/10.1016/j.eng.2020.04.009)
+DOI: [10.1016/j.eng.2020.04.009](https://doi.org/10.1016/j.eng.2020.04.009) \| URL: [ch/10.1016/j.eng.2020.04.009](http://www.engineering.org.cn/ch/10.1016/j.eng.2020.04.009)
 
 
 
@@ -2491,6 +2479,8 @@ DOI: [10.1016/j.jallcom.2011.09.085](http://dx.doi.org/10.1016/j.jallcom.2011.09
 
 
 
+
+
 <div id='260'></div> **260.** J. Wang, S. L. Shang, Y. Wang, Z. G. Mei, Y. F. Liang, Y. Du, and Z. K. Liu, _First-principles calculations of binary Al compounds: enthalpies of formation and elastic properties_, , CALPHAD, 35 (2011) 562–573. 
 
 DOI: [10.1016/j.calphad.2011.09.009](http://dx.doi.org/10.1016/j.calphad.2011.09.009)
@@ -3084,6 +3074,8 @@ DOI: [10.1111/j.1551-2916.2008.02859.x](http://dx.doi.org/10.1111/j.1551-2916.20
 
 
 
+
+
 ## 2008 (174 - 142)
 
 <div id='174'></div> **174.** S. L. Shang, S. Ganeshan, H. Zhang, and Z. K. Liu, _The development and application of a thermodynamic database for magnesium alloys_, JOM, Vol. 60, No. 12, 2008, 45-47.
@@ -3206,6 +3198,8 @@ DOI: [10.1016/j.jallcom.2007.08.010](http://dx.doi.org/10.1016/j.jallcom.2007.08
 
 
 
+
+
 <div id='157'></div> **157.** S. Lee, C. A. Randall and Z. K. Liu, _Comprehensive Linkage of Defect and Phase Equilibria through Ferroelectric Transition Behavior in BaTiO3-Based Dielectrics: Part II Defect Modeling under Low Oxygen Partial Pressure Conditions_, J. Am. Ceram. Soc., Vol. 91, 2008, 1753-1761
 
 DOI: [10.1111/j.1551-2916.2008.02372.x](http://dx.doi.org/10.1111/j.1551-2916.2008.02372.x)
@@ -3241,9 +3235,7 @@ DOI: [10.1063/1.2931702](http://dx.doi.org/10.1063/1.2931702)
 
 <div id='154'></div> **154.** X. Hui, X. J. Liu, R. Gao, H. Y. Hou, H. Z. Fang, Z. K. Liu and G. L. Chen, _Atomic structures of Zr-based metallic glasses,_,  Sci. China Ser. G-Phys. Mech. Astron., Vol.51, 2008, 400-413 (in English),  Vol. 38, 2008, 404-416, (in Chinese).
 
-DOI: [10.1007/s11433-008-0052-3](http://dx.doi.org/10.1007/s11433-008-0052-3)
-
- \| URL: [qikan/manage/wenzhang/08zg0406.pdf](http://phys.scichina.com/qikan/manage/wenzhang/08zg0406.pdf)
+DOI: [10.1007/s11433-008-0052-3](http://dx.doi.org/10.1007/s11433-008-0052-3) \| URL: [qikan/manage/wenzhang/08zg0406.pdf](http://phys.scichina.com/qikan/manage/wenzhang/08zg0406.pdf)
 
 
 
@@ -3461,9 +3453,7 @@ DOI: [10.1063/1.2717569](http://dx.doi.org/10.1063/1.2717569)
 
 <div id='124'></div> **124.** L. Ge, X. Hui, G. L. Chen and Z. K. Liu, _Prediction of the glass-forming ability of Cu-Zr binary alloys,_,  Acta Phys.-Chim. Sin., Vol.23, 2007, 895-899,  Online English edition at 
 
-DOI: [10.1016/S1872-1508(07)60050-3](http://dx.doi.org/10.1016/S1872-1508(07)60050-3)
-
- \| URL: [qikan/Cpaper/zhaiyao.asp?bsid=8341,](http://www.whxb.pku.edu.cn/qikan/Cpaper/zhaiyao.asp?bsid=8341,)
+DOI: [10.1016/S1872-1508(07)60050-3](http://dx.doi.org/10.1016/S1872-1508(07)60050-3) \| URL: [qikan/Cpaper/zhaiyao.asp?bsid=8341,](http://www.whxb.pku.edu.cn/qikan/Cpaper/zhaiyao.asp?bsid=8341,)
 
 
 
@@ -3701,9 +3691,7 @@ DOI: [10.1016/j.jallcom.2005.06.037](http://dx.doi.org/10.1016/j.jallcom.2005.06
 
 <div id='88'></div> **88.** Z. J. Liu, C. McNerny, P. Mehrotra, Y. X. Liu and Z. K. Liu, _Computational investigations of the bonding layer in CVD-coated WC+Co cutting tools,_,  J. Phase Equilib. Diffus., Vol.27, 2006, 30-33.
 
-DOI: [10.1361/105497106X92772](http://dx.doi.org/10.1361/105497106X92772)
-
- \| URL: [content/asm/jped/2006/00000027/00000001/art00006](http://www.ingentaconnect.com/content/asm/jped/2006/00000027/00000001/art00006)
+DOI: [10.1361/105497106X92772](http://dx.doi.org/10.1361/105497106X92772) \| URL: [content/asm/jped/2006/00000027/00000001/art00006](http://www.ingentaconnect.com/content/asm/jped/2006/00000027/00000001/art00006)
 
 
 
@@ -4091,6 +4079,8 @@ DOI: [10.1016/S0364-5916(01)00057-8](http://dx.doi.org/10.1016/S0364-5916(01)000
 
 
 
+
+
 <div id='31'></div> **31.** Y. L. Li, S. Y. Hu, Z. K. Liu and L. Q. Chen, _Phase-field model of domain structures in ferroelectric thin films,_,  Appl. Phys. Lett., Vol.78, 2001, 3878-3880.
 
 DOI: [10.1063/1.1377855](http://dx.doi.org/10.1063/1.1377855)
@@ -4184,6 +4174,8 @@ DOI: [10.1007/s11661-997-0254-8](http://dx.doi.org/10.1007/s11661-997-0254-8)
 
 
 
+
+
 <div id='19'></div> **19.** Z. K. Liu and Y. A. Chang, _On the applicability of the Ivantsov growth equation,_,  J. Appl. Phys., Vol.82, 1997, 4838-4841.
 
 DOI: [10.1063/1.366344](http://dx.doi.org/10.1063/1.366344)
@@ -4198,6 +4190,8 @@ DOI: [10.1063/1.366344](http://dx.doi.org/10.1063/1.366344)
 ## 1996 (18 - 14)
 
 <div id='18'></div> **18.** Z. K. Liu, D. Pile, J. O. Anderson and A. Brorson, _Solidification and microstructure of a high chromium nickel stainless-steel,_,  Lamiera (Italy), Vol.33, 1996, 220-223.
+
+
 
 
 
