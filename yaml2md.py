@@ -15,14 +15,14 @@ def parse_pressprints(header, file):
         URLs = []
         if entry['DOI']:
             url = entry['DOI']
-            URLs.append(f"DOI: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})\n\n")
+            URLs.append(f"DOI: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
         if entry['arXiv']:
             url = entry['arXiv']
-            URLs.append(f"arXiv: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})\n\n")
+            URLs.append(f"arXiv: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
         if entry['URL']:
             url = entry['URL']
-            URLs.append(f"URL: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})\n\n")
-        entryString += " \| ".join(URLs)
+            URLs.append(f"URL: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+        entryString += " \| ".join(URLs) + "\n\n"
         parsed_entries += entryString
         No -= 1
     
@@ -92,14 +92,14 @@ for key, value in bumpyear_dict.items():
         URLs = []
         if entry['DOI']:
             url = entry['DOI']
-            URLs.append(f"DOI: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})\n\n")
+            URLs.append(f"DOI: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
         if entry['arXiv']:
             url = entry['arXiv']
-            URLs.append(f"arXiv: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})\n\n")
+            URLs.append(f"arXiv: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
         if entry['URL']:
             url = entry['URL']
-            URLs.append(f"URL: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})\n\n")
-        entryString += " \| ".join(URLs)
+            URLs.append(f"URL: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+        entryString += " \| ".join(URLs) + "\n\n"
         
         try:
             result = cr.works(ids = entry['DOI'])

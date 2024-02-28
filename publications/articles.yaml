@@ -67,9 +67,9 @@
     quasichemical model in quadruplet approximation: Implementation into PyCalphad
     and ESPEI'
   metadata: 'CALPHAD 83 (2023) 102618.'
-  DOI: https://doi.org/10.5281/zenodo.6471272
+  DOI: https://doi.org/10.1016/j.calphad.2023.102618
   arXiv: http://arxiv.org/abs/2204.09111
-  URL: null
+  URL: https://doi.org/10.5281/zenodo.6471272
 - ID_deprecated: '595'
   authors: "Arindam Debnath, Lavanya Raman, Wenjie Li, Adam M. Krajewski, Marcia Ahn,
     Shuang Lin, Shun-Li Shang, Allison M. Beese, Zi-Kui Liu, and Wesley F.
