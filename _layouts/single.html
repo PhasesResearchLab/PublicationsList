@@ -95,6 +95,19 @@ layout: default
 </div>
 
 <script>
+    function copyToClipboard() {
+      var text = document.getElementById('textToCopy').innerText;
+      var textarea = document.createElement('textarea');
+      textarea.id = 'tempElement';
+      textarea.style.height = 0;
+      document.body.appendChild(textarea);
+      textarea.value = text;
+      var selector = document.querySelector('#tempElement');
+      selector.select();
+      document.execCommand('copy');
+      document.body.removeChild(textarea);
+    }
+
     var tocMenuItems = document.querySelectorAll('.toc__menu li');
     tocMenuItems.forEach(function(item) {
         var subMenu = item.querySelector('ul');
@@ -122,6 +135,6 @@ layout: default
     $('.sidebar.sticky .nav__list').remove();
     $('.page__inner-wrap').css('font-size', '18px');
     $('.page__inner-wrap').css('width', '9in');
-    $('.sidebar__left').css('font-size', '30px');
+    $('.sidebar__left ul').css('font-size', '20px');
     });
 </script>

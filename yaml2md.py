@@ -1,6 +1,6 @@
 import yaml
 import re
-from habanero import Crossref
+from habanero import Crossref, cn
 
 def parse_pressprints(header, file):
     parsed_entries = f"# {header}\n---\n"
@@ -47,11 +47,18 @@ def parse_others(header, file):
 
 cr = Crossref()
 
-formatted_entries = parse_pressprints('PRE-PRINTS', 'preprints.yaml')
+formatted_entries = '''---
+layout: single
+toc: true
+toc_label: 'Publications List'
+sidebar:
+  nav: 'sidebar'
+---
+'''
+
+formatted_entries += parse_pressprints('PRE-PRINTS', 'preprints.yaml')
 
 formatted_entries += parse_pressprints('IN-PRESS', 'inpress.yaml')
-
-formatted_entries += "# ARTICLES\n---\n"
 
 # Read the entries from the YAML file
 with open('publications/articles.yaml', 'r', encoding='utf-8') as f:
@@ -80,26 +87,37 @@ bumpyear_dict = {1987 + bumpyears - i: split_entries[i] for i in range(bumpyears
 for year, sublist in bumpyear_dict.items():
     bumpyear_dict[year] = [item for item in sublist if 'bumpyear' not in item]
 
+formatted_entries += f"# ARTICLES\n---\n## {max(bumpyear_dict)//10*10}'s\n\n"
+
 # Create a string to store the formatted entries
 id  = len(entries) - bumpyears + 1
 for key, value in bumpyear_dict.items():
-    formatted_entries += f"## {key} ({id} - {id-len(value)+1})\n\n"
+    if key%10 == 9 and key != max(bumpyear_dict):
+        formatted_entries += f"## {key//10*10}'s\n\n"
+    
+    formatted_entries += f"### {key} ({id} - {id-len(value)+1})\n\n"
     for i, entry in enumerate(value):
         if "ID_deprecated" in entry:
             id = int(entry["ID_deprecated"])
 
         entryString = f"<div id='{id}'></div> **{id}.** {entry['authors']}, _{entry['title']}_, {entry['metadata']}\n\n"
         URLs = []
-        if entry['DOI']:
+        if "DOI" in entry and entry['DOI']:
             url = entry['DOI']
             URLs.append(f"DOI: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
-        if entry['arXiv']:
+        if "arXiv" in entry and entry['arXiv']:
             url = entry['arXiv']
             URLs.append(f"arXiv: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
-        if entry['URL']:
+        if "URL" in entry and entry['URL']:
             url = entry['URL']
             URLs.append(f"URL: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
-        entryString += " \| ".join(URLs) + "\n\n"
+        
+        try:
+            bibentry = cn.content_negotiation(ids = entry['DOI'], format = "bibentry")
+            entryString += f"<button onclick='copyToClipboard()'><i class='fas fa-copy'></i></button>\n" + " \| ".join(URLs) + f"\n<p id='textToCopy' style='display: none;'>{bibentry}</p>\n\n"
+        except Exception as e:
+            entryString += " \| ".join(URLs) + "\n\n"
+            print(f"An error occurred while processing the BIBENTRY DOI {entry['DOI']}: {e}")
         
         try:
             result = cr.works(ids = entry['DOI'])
@@ -107,7 +125,7 @@ for key, value in bumpyear_dict.items():
                 abstract = result['message']['abstract'].replace('<jats:p>', '').replace('</jats:p>', '').replace('<jats:title>Abstract</jats:title>', '')
                 entryString += f"\n<details style='margin-bottom: 20px;'>\n  <summary>Abstract:</summary>\n  \n  {abstract}\n</details>"
         except Exception as e:
-            print(f"An error occurred while processing DOI {entry['DOI']}: {e}")
+            print(f"An error occurred while processing the ABSTRACT of DOI {entry['DOI']}: {e}")
         
         formatted_entries += entryString + "\n\n"
         id -= 1
@@ -137,24 +155,13 @@ for type in ['PhD Thesis','MS Thesis','BS Thesis']:
                 formatted_entries += f"**{No}\.** {entry['metadata']}\n\n"
             No -= 1
 
-formatted_entries += '''
-<h1 style="text-align: right;">New Contributions</h1>
----
-To contribute to the list of publications, please follow the instructions below:
-
-1\. Go to ['PRL/PublicationsList'](https://github.com/PhasesResearchLab/PublicationsList) repository in GitHub.
-
-2\. Update the corresponding YAML file(s) in the 'publications' directory with your contributions.
-
-**Warning:** Entries are numbered sequentially in reverse chronological order. For articles, the ID field is currently deprecated and can be omitted; however, it can still be used to set a specific number to an article.
-{: .notice--warning}
-
-**Note:** Please be observative that years are not automatically collected from entries, so make sure to add a 'bumpyear' entry between articles of different years.
-{: .notice--info}
-
-3\. After updating the YAML file(s), commit the changes to the main branch, and you're good to go! The list will soon be automatically updated in the [PRL Publications List](https://phasesresearchlab.github.io/PublicationsList/).
-'''
-
 # Write the formatted entries to a .md file
-with open('README.md', 'w', encoding='utf-8') as f:
+with open('index.md', 'w', encoding='utf-8') as f:
     f.write(formatted_entries)
+
+'''
+Review articles.yaml content
+Add bib tex file
+Create Articles intermediate sections: YYY0's 
+Split README.md and index.md
+'''

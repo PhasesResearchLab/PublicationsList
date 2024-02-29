@@ -699,10 +699,8 @@
     Z. K. Liu'
   title: 'Suitability of Binary Oxides for Molecular-Beam Epitaxy Source Materials:
     A Comprehensive Thermodynamic Analysis'
-  metadata: 'APL Mater. 8 (2020) 081110,  The paper was selected as a Featured Article
-    and also the Cover Image of APL Materials (volume 8, issue 8, 2020),  Supplementary
-    Information: '
-  DOI: https://aip.scitation.org/doi/suppl/10.1063/5.0013159
+  metadata: 'APL Mater. 8 (2020) 081110. The paper was selected as a Featured Article and also the Cover Image of APL Materials (volume 8, issue 8, 2020)'
+  DOI: https://doi.org/10.1063/5.0013159
   arXiv: null
   URL: null
 - ID_deprecated: '523'
@@ -1064,10 +1062,10 @@
     X. R. Zhou, Z. G. G. Leng, Z. K. Liu, C. B. Jiang, J. M. D. Coey, and Z. Q. Liu'
   title: A piezoelectric strain-controlled antiferromagnetic memory insensitive to
     magnetic fields
-  metadata: 'Nature Nanotechnology, 14 (2019) 131-136 '
+  metadata: 'Nature Nanotechnology, 14 (2019) 131-136. Editors’ Choice in Science: J. Stajic, “Strain controls antiferromagnetism”, Science 363 (2019) 596.'
   DOI: https://doi.org/10.1038/s41565-018-0339-0
   arXiv: null
-  URL: null
+  URL: http://science.sciencemag.org/content/363/6427/596.6?rss=1
 - ID_deprecated: '481'
   authors: 'Z. X. Yu, S. L. Shang, Y. G. Li, H. P. Yennawar, D. W. Wang, Y. Gao, H.
     Huang, G. X. Li, T. E. Mallouk, Z. K. Liu, and D. H. Wang'
@@ -2089,7 +2087,7 @@
   title: 'First-principles thermodynamics at finite temperatures: Perspective on ordered
     and disordered phases'
   metadata: 'Mater. China 34 (2015) 297-304.'
-  DOI: http://dx.doi.org/10.7502/j.issn.1674-3962.2015.04.06
+  DOI: https://doi.org/10.7502/j.issn.1674-3962.2015.04.06
   arXiv: null
   URL: null
 - ID_deprecated: '358'
@@ -2196,7 +2194,7 @@
   title: "Thermodynamic modeling of the CaO\u2013CaF2\u2013Al2O3 system aided by first-principles
     calculations"
   metadata: ", CALPHAD., 83 ( 2015), 102\u2013112, "
-  DOI: http://dx.doi.org/doi:10.1016/j.calphad.2014.12.002
+  DOI: https://doi.org/10.1016/j.calphad.2014.12.002
   arXiv: null
   URL: null
 - ID_deprecated: '345'
@@ -2604,7 +2602,7 @@
   title: 'BiFeO3 Domain Wall Energies and Structures: A Combined Experimental and
     Density Functional Theory+U Study'
   metadata: 'Phys. Rev. Lett. 110, 267601 (2013).'
-  DOI: http://link.aps.org/doi/10.1103/PhysRevLett.110.267601
+  DOI: https://doi.org/10.1103/PhysRevLett.110.267601
   arXiv: null
   URL: null
 - ID_deprecated: '295'
@@ -2668,7 +2666,7 @@
     D. A. Muller, P. Schiffer, and D. G. Schlom, "
   title: The adsorption-controlled growth of LuFe2O4 by molecular-beam epitaxy
   metadata: 'Appl. Phys. Lett. 101, 132907 (2012) '
-  DOI: http://link.aip.org/link/doi/10.1063/1.4755765
+  DOI: https://doi.org/10.1063/1.4755765
   arXiv: null
   URL: null
 - ID_deprecated: '287'
@@ -2778,7 +2776,7 @@
   authors: 'Y. Wang, S. L. Shang, Z. K. Liu, and L. Q. Chen'
   title: Mixed-space approach for calculation of vibration-induced dipole-dipole interactions
   metadata: 'Phys. Rev. B 85, 224303(2012).'
-  DOI: http://link.aps.org/doi/10.1103/PhysRevB.85.224303
+  DOI: https://doi.org/10.1103/PhysRevB.85.224303
   arXiv: null
   URL: null
 - ID_deprecated: '273'
@@ -2885,7 +2883,7 @@
   authors: 'Y. Wang, C. L. Zacherl, S. L. Shang, L.-Q. Chen, and Z.-K. Liu'
   title: 'Phonon dispersions in random alloys: A formulism based on SQS force constants'
   metadata: '2011 J. Phys.: Condens. Matter 23 485403 doi:10.1088/0953-8984/23/48/485403'
-  DOI: null
+  DOI: http://dx.doi.org/10.1088/0953-8984/23/48/485403
   arXiv: null
   URL: null
 - ID_deprecated: '260'
@@ -2956,7 +2954,7 @@
   title: First-principles study of the lattice dynamics and thermodynamics of TiO2
     polymorphs
   metadata: 'Inorg. Chem., 2011, 50 (15), pp 6996-7003'
-  DOI: http://pubs.acs.org/doi/abs/10.1021/ic200349p
+  DOI: https://doi.org/10.1021/ic200349p
   arXiv: null
   URL: null
 - ID_deprecated: '251'
@@ -3456,7 +3454,7 @@
     R. Uecker, R. Ramesh, and D.G. Schlom'
   title: Adsorption-Controlled Growth of BiFeO3 by MBE and Integration with Wide Band
     Gap Semiconductors,
-  metadata: ' IEEE Trans. Ultrason. Ferroelectr. Freq. Control,, 56 (8), 1528-1533
+  metadata: ' IEEE Trans. Ultrason. Ferroelectr. Freq. Control, 56 (8), 1528-1533
     (2009)'
   DOI: http://dx.doi.org/10.1109/TUFFC.2009.1216
   arXiv: null
@@ -3567,10 +3565,10 @@
   authors: 'W.M. Feng, P. Yu, S. Y. Hu, Z. K. Liu, Q. Du, and L.Q. Chen'
   title: A Fourier Spectral Moving Mesh Method for the Cahn-Hilliard Equation with
     Elasticity
-  metadata: 'Commun. Comput. Phys., Vol. 5, 2009, 582-599, (Online Access)'
+  metadata: 'Commun. Comput. Phys., Vol. 5, 2009, 582-599'
   DOI: null
   arXiv: null
-  URL: null
+  URL: https://www.global-sci.com/intro/article_detail/cicp/7751.html
 - bumpyear: true
 - ID_deprecated: '174'
   authors: 'S. L. Shang, S. Ganeshan, H. Zhang, and Z. K. Liu'
@@ -3624,7 +3622,7 @@
   authors: 'J. E. Saal, D. Shin, A. J. Stevenson, G. L. Messing and Z. K. Liu'
   title: First-principles calculations and thermodynamic modeling of the Al2O3-Nd2O3
     system
-  metadata: ", J. Am. Ceram. Soc., Vol. 91,2008, 3355\u20133361,"
+  metadata: "J. Am. Ceram. Soc., Vol. 91,2008, 3355-3361"
   DOI: http://dx.doi.org/10.1111/j.1551-2916.2008.02618.x
   arXiv: null
   URL: null
@@ -3849,7 +3847,7 @@
   authors: 'S. L. Shang, Y. Wang, Z. K. Liu, C. E. Yang and S. Z. Yin'
   title: 'Band structure of FeBO3: Implications for tailoring the band gap of nanoparticles'
   metadata: ", Appl. Phys. Lett., Vol. 91, 2007, 253115. Selected for Virtual Journal
-    of Nanoscale Science & Technology \u2014 January 7, 2008, Volume 17, Issue 1"
+    of Nanoscale Science & Technology - January 7, 2008, Volume 17, Issue 1"
   DOI: http://dx.doi.org/10.1063/1.2824869
   arXiv: null
   URL: null
@@ -3975,8 +3973,7 @@
 - ID_deprecated: '124'
   authors: 'L. Ge, X. Hui, G. L. Chen and Z. K. Liu'
   title: Prediction of the glass-forming ability of Cu-Zr binary alloys,
-  metadata: ' Acta Phys.-Chim. Sin., Vol.23, 2007, 895-899,  Online English edition
-    at '
+  metadata: ' Acta Phys.-Chim. Sin., Vol.23, 2007, 895-899'
   DOI: http://dx.doi.org/10.1016/S1872-1508(07)60050-3
   arXiv: null
   URL: http://www.whxb.pku.edu.cn/qikan/Cpaper/zhaiyao.asp?bsid=8341,
@@ -4187,8 +4184,8 @@
 - ID_deprecated: '96'
   authors: 'Y. Wang, Z. K. Liu, L. Q. Chen, L. Burakovsky and R. Ahuja'
   title: 'First-principles calculations on MgO: Phonon theory versus mean-field potential
-    approach,'
-  metadata: ' J. Appl. Phys., 100, 2006, 023533. Vol'
+    approach'
+  metadata: ' J. Appl. Phys., 100, 2006, 023533'
   DOI: http://dx.doi.org/10.1063/1.2219081
   arXiv: null
   URL: null
@@ -4684,8 +4681,8 @@
 - ID_deprecated: '32'
   authors: 'L. Q. Chen, C. Wolverton, V. Vaithyanathan and Z. K. Liu'
   title: Modeling solid-state phase transformations and microstructure evolution,
-  metadata: ' MRS Bull., Vol.26 (3), 2001, 197-202. (Online Access)'
-  DOI: null
+  metadata: ' MRS Bull., Vol.26 (3), 2001, 197-202.'
+  DOI: https://doi.org/10.1557/mrs2001.42
   arXiv: null
   URL: null
 - ID_deprecated: '31'
