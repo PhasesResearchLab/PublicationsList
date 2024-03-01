@@ -120,7 +120,7 @@ for key, value in bumpyear_dict.items():
         
         try:
             bibentry = cn.content_negotiation(ids = entry['DOI'], format = "bibentry")
-            entryString += f"<button onclick='copyToClipboard()'><i class='fas fa-copy'></i></button>\n" + " \| ".join(URLs) + f"\n<p id='textToCopy' style='display: none;'>{bibentry}</p>\n\n"
+            entryString += f"<button onclick='copyToClipboard(\"bib{id}\")'><i class='fas fa-copy'></i></button>\n" + " \| ".join(URLs) + f"\n<p id='bib{id}' style='display: none;'>{bibentry}</p>\n\n"
         except Exception as e:
             entryString += " \| ".join(URLs) + "\n\n"
             print(f"An error occurred while processing the BIBENTRY DOI {entry['DOI']}: {e}")

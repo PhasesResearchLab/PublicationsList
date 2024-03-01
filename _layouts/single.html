@@ -95,8 +95,8 @@ layout: default
 </div>
 
 <script>
-    function copyToClipboard() {
-      var text = document.getElementById('textToCopy').innerText;
+    function copyToClipboard(id) {
+      var text = document.getElementById(id).innerText;
       var textarea = document.createElement('textarea');
       textarea.id = 'tempElement';
       textarea.style.height = 0;

@@ -8,7 +8,7 @@ To contribute to the list of publications, please follow the instructions below:
 
 > **Note:** When editing the YAML file(s), please be attentive to each entry's structure and order. Entries have specific fields that need to be filled accordingly or left 'null' if non-applicable (see examples below).
 
-- **Articles** | **In-Press**  | **Pre-Prints**
+- **Articles** \| **In-Press**  \| **Pre-Prints**
 
     ```yaml
     - authors: 'Zi-Kui Liu, Nigel L. E. Hew, and Shun-Li Shang'
@@ -20,7 +20,7 @@ To contribute to the list of publications, please follow the instructions below:
       URL: null
     ```
 
-- **Book Chapters** | **Patents**  | **Webcasts** | **Proceedings and Reports**
+- **Book Chapters** \| **Patents**  \| **Webcasts** \| **Proceedings and Reports**
 
     ```yaml
     - metadata: 'Zi-Kui Liu, Advancing the Materials Genome, Proceedings Book of The 3rd 
