@@ -97,20 +97,26 @@ for key, value in bumpyear_dict.items():
     
     formatted_entries += f"### {key} ({id} - {id-len(value)+1})\n\n"
     for i, entry in enumerate(value):
-        if "ID_deprecated" in entry:
+        if "ID_deprecated" in entry and entry["ID_deprecated"] != None:
             id = int(entry["ID_deprecated"])
 
         entryString = f"<div id='{id}'></div> **{id}.** {entry['authors']}, _{entry['title']}_, {entry['metadata']}\n\n"
         URLs = []
-        if "DOI" in entry and entry['DOI']:
+        try:
             url = entry['DOI']
             URLs.append(f"DOI: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
-        if "arXiv" in entry and entry['arXiv']:
+        except Exception as e:
+            pass
+        try:
             url = entry['arXiv']
             URLs.append(f"arXiv: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
-        if "URL" in entry and entry['URL']:
+        except Exception as e:
+            pass
+        try:
             url = entry['URL']
             URLs.append(f"URL: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+        except Exception as e:
+            pass
         
         try:
             bibentry = cn.content_negotiation(ids = entry['DOI'], format = "bibentry")

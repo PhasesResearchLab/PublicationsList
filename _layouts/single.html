@@ -129,12 +129,17 @@ layout: default
             }
         });
     });
+
     $(document).ready(function() {
     var toc = $('.sidebar__left').detach();
     $('.sidebar.sticky').append(toc);
     $('.sidebar.sticky .nav__list').remove();
     $('.page__inner-wrap').css('font-size', '18px');
-    $('.page__inner-wrap').css('width', '9in');
     $('.sidebar__left ul').css('font-size', '20px');
     });
+
+    $(window).on('resize', function() {
+        var pageWidth = $('.page.h-entry').outerWidth();
+        $('.page__inner-wrap').css('width', pageWidth);
+    }).trigger('resize');  // Trigger the event to set the width initially
 </script>
