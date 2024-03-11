@@ -1,3 +1,10 @@
+- authors: Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu
+  title: "nimCSO: A Nim package for Compositional Space Optimization"
+  metadata: March 2024
+  DOI: null
+  arXiv: https://arxiv.org/abs/2403.02340
+  URL: https://nimcso.phaseslab.org
+
 - authors: Adam M. Krajewski, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu
   title: Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials
   metadata: February 2024
