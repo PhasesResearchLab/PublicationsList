@@ -15,19 +15,22 @@ def parse_pressprints(header, file):
         URLs = []
         try:
             url = entry['DOI']
-            URLs.append(f"DOI: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+            URLs.append(f"DOI: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
         except Exception as e:
-            pass
+            if entry['DOI']:
+                URLs.append(f"DOI: [{url}]({url})")
         try:
             url = entry['arXiv']
-            URLs.append(f"arXiv: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+            URLs.append(f"arXiv: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
         except Exception as e:
-            pass
+            if entry['arXiv']:
+                URLs.append(f"arXiv: [{url}]({url})")
         try:
             url = entry['URL']
-            URLs.append(f"URL: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+            URLs.append(f"URL: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
         except Exception as e:
-            pass
+            if entry['URL']:
+                URLs.append(f"URL: [{url}]({url})")
         entryString += " \| ".join(URLs) + "\n\n"
         parsed_entries += entryString
         No -= 1
@@ -110,19 +113,22 @@ for key, value in bumpyear_dict.items():
         URLs = []
         try:
             url = entry['DOI']
-            URLs.append(f"DOI: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+            URLs.append(f"DOI: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
         except Exception as e:
-            pass
+            if entry['DOI']:
+                URLs.append(f"DOI: [{url}]({url})")
         try:
             url = entry['arXiv']
-            URLs.append(f"arXiv: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+            URLs.append(f"arXiv: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
         except Exception as e:
-            pass
+            if entry['arXiv']:
+                URLs.append(f"arXiv: [{url}]({url})")
         try:
             url = entry['URL']
-            URLs.append(f"URL: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+            URLs.append(f"URL: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
         except Exception as e:
-            pass
+            if entry['URL']:
+                URLs.append(f"URL: [{url}]({url})")
         
         try:
             bibentry = cn.content_negotiation(ids = entry['DOI'], format = "bibentry")
@@ -170,10 +176,3 @@ for type in ['PhD Thesis','MS Thesis','BS Thesis']:
 # Write the formatted entries to a .md file
 with open('index.md', 'w', encoding='utf-8') as f:
     f.write(formatted_entries)
-
-'''
-Review articles.yaml content
-Add bib tex file
-Create Articles intermediate sections: YYY0's 
-Split README.md and index.md
-'''
