@@ -13,15 +13,21 @@ def parse_pressprints(header, file):
     for entry in entries:
         entryString = f"**{No}\.** {entry['authors']}, _{entry['title']}_, {entry['metadata']}\n\n"
         URLs = []
-        if entry['DOI']:
+        try:
             url = entry['DOI']
             URLs.append(f"DOI: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
-        if entry['arXiv']:
+        except Exception as e:
+            pass
+        try:
             url = entry['arXiv']
             URLs.append(f"arXiv: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
-        if entry['URL']:
+        except Exception as e:
+            pass
+        try:
             url = entry['URL']
             URLs.append(f"URL: [{re.search(r'https?://[^/]+/(.+)', url).group(1)}]({url})")
+        except Exception as e:
+            pass
         entryString += " \| ".join(URLs) + "\n\n"
         parsed_entries += entryString
         No -= 1
