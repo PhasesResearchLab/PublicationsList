@@ -4,7 +4,7 @@ To contribute to the list of publications, please follow the instructions below:
 
 1\. Update the corresponding YAML file(s) in the 'publications' directory with your contributions at [PRL/PublicationsList's repository](https://github.com/PhasesResearchLab/PublicationsList).
 
-> **Note:** The easiest and recommended method for editing file(s) is to do it directly from your browser using GitHub’s web-based editor. To do so, simply press the period key (.) on your keyboard when inside the PublicationList repo, and navigate to the YAML files using the 'Explorer' tab on the left sidebar menu. To commit your changes, use the 'Source Control' tab, write a short commit message, and click 'Commit & Push'.
+> **Note:** The easiest and recommended method for editing file(s) is to do it directly from your browser using GitHub’s web-based editor. To do so, simply press the period key (.) on your keyboard when inside the PublicationList repo OR manually change the URL in the address bar from `github.com/PhasesResearchLab` to `github.dev/PhasesResearchLab`. Once in the web-based editor, navigate to the YAML files using the 'Explorer' tab on the left sidebar menu. To commit your changes, use the 'Source Control' tab, write a short commit message, and click 'Commit & Push'.
 
 > **Note:** When editing the YAML file(s), please be attentive to each entry's structure and order. Entries have specific fields that need to be filled accordingly or left 'null' if non-applicable (see examples below).
 
@@ -12,8 +12,8 @@ To contribute to the list of publications, please follow the instructions below:
 
     ```yaml
     - authors: 'Zi-Kui Liu, Nigel L. E. Hew, and Shun-Li Shang'
-      title: Zentropy theory for accurate prediction of free energy, volume, and thermal
-          expansion without fitting parameters
+      title: 'Zentropy theory for accurate prediction of free energy, volume, and thermal
+          expansion without fitting parameters'
       metadata: 'Microstructures 4 (2024) 2024009.'
       DOI: https://dx.doi.org/10.20517/microstructures.2023.56
       arXiv: https://arxiv.org/abs/2310.06527
