@@ -9,7 +9,7 @@ def parse_pressprints(header, file):
     with open('publications/' + file, 'r', encoding='utf-8') as f:
         entries = yaml.safe_load(f)
 
-    No = len(entries)
+    No = len(entries) if entries is not None else 0
     for entry in entries:
         entryString = f"**{No}\.** {entry['authors']}, _{entry['title']}_, {entry['metadata']}\n\n"
         URLs = []
