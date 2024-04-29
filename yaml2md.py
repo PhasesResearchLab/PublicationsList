@@ -9,31 +9,32 @@ def parse_pressprints(header, file):
     with open('publications/' + file, 'r', encoding='utf-8') as f:
         entries = yaml.safe_load(f)
 
-    No = len(entries) if entries is not None else 0
-    for entry in entries:
-        entryString = f"**{No}\.** {entry['authors']}, _{entry['title']}_, {entry['metadata']}\n\n"
-        URLs = []
-        try:
-            url = entry['DOI']
-            URLs.append(f"DOI: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
-        except Exception as e:
-            if entry['DOI']:
-                URLs.append(f"DOI: [{url}]({url})")
-        try:
-            url = entry['arXiv']
-            URLs.append(f"arXiv: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
-        except Exception as e:
-            if entry['arXiv']:
-                URLs.append(f"arXiv: [{url}]({url})")
-        try:
-            url = entry['URL']
-            URLs.append(f"URL: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
-        except Exception as e:
-            if entry['URL']:
-                URLs.append(f"URL: [{url}]({url})")
-        entryString += " \| ".join(URLs) + "\n\n"
-        parsed_entries += entryString
-        No -= 1
+    if entries is not None:
+        No = len(entries)
+        for entry in entries:
+            entryString = f"**{No}\.** {entry['authors']}, _{entry['title']}_, {entry['metadata']}\n\n"
+            URLs = []
+            try:
+                url = entry['DOI']
+                URLs.append(f"DOI: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
+            except Exception as e:
+                if entry['DOI']:
+                    URLs.append(f"DOI: [{url}]({url})")
+            try:
+                url = entry['arXiv']
+                URLs.append(f"arXiv: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
+            except Exception as e:
+                if entry['arXiv']:
+                    URLs.append(f"arXiv: [{url}]({url})")
+            try:
+                url = entry['URL']
+                URLs.append(f"URL: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
+            except Exception as e:
+                if entry['URL']:
+                    URLs.append(f"URL: [{url}]({url})")
+            entryString += " \| ".join(URLs) + "\n\n"
+            parsed_entries += entryString
+            No -= 1
     
     return parsed_entries
 
@@ -44,13 +45,14 @@ def parse_others(header, file):
     with open('publications/' + file, 'r', encoding='utf-8') as f:
         entries = yaml.safe_load(f)
 
-    No = len(entries)
-    for entry in entries:
-        if entry['URL']:
-            parsed_entries += f"**{No}\.** [{entry['metadata']}]({entry['URL']})\n\n"
-        else:
-            parsed_entries += f"**{No}\.** {entry['metadata']}\n\n"
-        No -= 1
+    if entries is not None:
+        No = len(entries)
+        for entry in entries:
+            if entry['URL']:
+                parsed_entries += f"**{No}\.** [{entry['metadata']}]({entry['URL']})\n\n"
+            else:
+                parsed_entries += f"**{No}\.** {entry['metadata']}\n\n"
+            No -= 1
     
     return parsed_entries
 
