@@ -1,3 +1,39 @@
+- authors: 'J. D. Shimanek, Z.-K. Liu, and A. M. Beese'
+  title: 'Effects of misorientation on single crystal plasticity by finite element methods'
+  metadata: 'Computational Materials Science 237 (2024) 112879.'
+  DOI: https://dx.doi.org/10.1016/j.commatsci.2024.112879
+  arXiv: https://arxiv.org/abs/2402.15056
+  URL: null
+- authors: 'Wenjie Li, Lavanya Raman, Arindam Debnath, Marcia Ahn, Shuang Lin, Adam M. Krajewski, Shun-Li Shang, Shashank Priya, Wesley F. Reinhart, Zi-Kui Liu, and Allison M. Beese'
+  title: 'Design and validation of refractory alloys using machine learning, CALPHAD, and experiments'
+  metadata: 'Int. J. Refract. Met. Hard Mater. 121 (2024) 106673.'
+  DOI: https://doi.org/10.1016/j.ijrmhm.2024.106673
+  arXiv: null
+  URL: null
+- authors: 'Zhening Yang, Hui Sun, Shun-Li Shang, Zi-Kui Liu, Allison M. Beese'
+  title: 'Effect of heat treatment on functionally graded 304L stainless steel to Inconel 625 fabricated by directed energy deposition'
+  metadata: 'Materialia 34 (2024) 102067'
+  DOI: https://doi.org/10.1016/j.mtla.2024.102067
+  arXiv: null
+  URL: null
+- authors: 'M. Withington, H. L. Devereux, C. Cockrell, A. M. Elena, I. T. Todorov, Z. K. Liu, S. L. Shang, J. S. McCloy, P. A. Bingham, and K. Trachenk'
+  title: 'Viscosity bounds in liquids with different structure and bonding types'
+  metadata: 'Phys. Rev. B 109 (2024) 094205.'
+  DOI: https://doi.org/10.1103/PhysRevB.109.094205
+  arXiv: null
+  URL: null
+- authors: 'Jinhui Huang, Shuhong Liu, Martin Friák, Chengliang Qiu, Shun-Li Shang, Zi-Kui Liu, and Yong Du'
+  title: 'Theory-guided materials design of multiphase alloys with superior stiffness at finite temperatures'
+  metadata: 'Acta Mater. 269 (2024) 119796.'
+  DOI: https://doi.org/10.1016/j.actamat.2024.119796
+  arXiv: null
+  URL: null
+- authors: 'Beril Tonyali, Hui Sun, Brandon Bocklund, John Paul Borgonia, Richard A. Otis, Shun-Li Shang, Zi-Kui Liu, and Allison M. Beese'
+  title: 'Additively manufactured Ni-20Cr to V functionally graded material: computational predictions and experimental verification of phase formations'
+  metadata: 'J. Alloys Compd. 985 (2024) 174011.'
+  DOI: https://doi.org/10.1016/j.jallcom.2024.174011
+  arXiv: null
+  URL: null
 - authors: 'Jinglian Du, Zilin Zhang, Shun-Li Shang, Ang Zhang, Yi Wang, Shoumei Xiong, Zi-Kui Liu, and Feng Liu'
   title: Underpinnings behind the Magnetic Order-to-Disorder Transition and Property Anomaly of Disproportionated Insulating SmNiO3
   metadata: 'Acta Mater. 268 (2024) 119783.'
