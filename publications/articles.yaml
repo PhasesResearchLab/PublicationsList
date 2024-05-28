@@ -1,4 +1,4 @@
-- authors: 'Jieun Kim, Muqing Yu, Jung-Woo Lee1, Shun-Li Shang, Gi-Yeop Kim, Pratap Pal, Jinsol Seo, Neil Campbell, Kitae Eom, Ranjani Ramachandran, Mark S. Rzchowski, Sang Ho Oh, Si-Young Choi, Zi-Kui Liu, Jeremy Levy, and Chang-Beom Eom'
+- authors: 'Jieun Kim, Muqing Yu, Jung-Woo Lee, Shun-Li Shang, Gi-Yeop Kim, Pratap Pal, Jinsol Seo, Neil Campbell, Kitae Eom, Ranjani Ramachandran, Mark S. Rzchowski, Sang Ho Oh, Si-Young Choi, Zi-Kui Liu, Jeremy Levy, and Chang-Beom Eom'
   title: 'Electronic-grade epitaxial (111) KTaO3 heterostructures'
   metadata: 'Sci. Adv. 10 (2024) eadk4288.'
   DOI: https://doi.org/10.1126/sciadv.adk4288
@@ -21,12 +21,6 @@
   metadata: 'CALPHAD 85 (2024) 102703.'
   DOI: https://doi.org/10.1016/j.calphad.2024.102703
   arXiv: null
-  URL: null
-- authors: 'Zi-Kui Liu'
-  title: 'Quantitative Predictive Theories through Integrating Quantum, Statistical, Equilibrium, and Nonequilibrium Thermodynamics'
-  metadata: 'J. Phys.: Condens. Matter.'
-  DOI: https://doi.org/10.1088/1361-648X/ad4762
-  arXiv: https://arxiv.org/abs/2402.04143
   URL: null
 - authors: 'Mengdi Gan, Xiaoyu Chong, Tianlong Lu, Chao Yang, Wei Yu, Shun-Li Shang, Yi Wang, Zi-Kui Liu, and Jing Feng'
   title: 'Unveiling thermal stresses in RETaO4 (RE= Nd, Sm, Eu, Gd, Tb, Dy, Ho and Er) by first-principles calculations and finite element simulations'
