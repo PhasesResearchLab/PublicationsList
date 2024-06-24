@@ -67,6 +67,8 @@ sidebar:
 ---
 '''
 
+formatted_entries += parse_others('BOOKS AND BOOK CHAPTERS', 'books.yaml')
+
 formatted_entries += parse_pressprints('PRE-PRINTS', 'preprints.yaml')
 
 formatted_entries += parse_pressprints('IN-PRESS', 'inpress.yaml')
@@ -153,8 +155,6 @@ for key, value in bumpyear_dict.items():
 formatted_entries += parse_others('CONFERENCE PROCEEDINGS AND REPORTS','proceedingsandreports.yaml')
 
 formatted_entries += parse_others('PATENTS', 'patents.yaml')
-
-formatted_entries += parse_others('BOOK CHAPTERS', 'bookchapters.yaml')
 
 formatted_entries += parse_others('WEBCASTS', 'webcasts.yaml')
 
