@@ -1,62 +1,62 @@
-- authors: 'Zi-Kui Liu and Shun-Li Shang'
+- authors: "Zi-Kui Liu and Shun-Li Shang"
   title: "Revealing symmetry-broken superconducting configurations by density functional theory"
-  metadata: March 2024
+  metadata: "March 2024"
   DOI: null
   arXiv: https://arxiv.org/abs/2404.00719
   URL: https://doi.org/10.5281/zenodo.10900758
 
-- authors: 'Qi-Jun Hong and Zi-Kui Liu'
+- authors: "Qi-Jun Hong and Zi-Kui Liu"
   title: "A generalized approach for rapid entropy calculation of liquids and solids"
-  metadata: March 2024
+  metadata: "March 2024"
   DOI: null
   arXiv: https://arxiv.org/abs/2403.19872
   URL: null
 
-- authors: 'Zi-Kui Liu'
+- authors: "Zi-Kui Liu"
   title: "On Gibbs Equilibrium and Hillert Nonequilibrium Thermodynamics"
-  metadata: March 2024
+  metadata: "March 2024"
   DOI: null
   arXiv: https://arxiv.org/abs/2402.14231 
   URL: null
 
-- authors: 'Zi-Kui Liu'
+- authors: "Zi-Kui Liu"
   title: "Quantitative Predictive Theories through Integrating Quantum, Statistical, Equilibrium, and Nonequilibrium Thermodynamics"
-  metadata: March 2024
+  metadata: "March 2024"
   DOI: null
   arXiv: https://arxiv.org/abs/2402.04143 
   URL: null
   
-- authors: 'Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu'
+- authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
   title: "nimCSO: A Nim package for Compositional Space Optimization"
-  metadata: March 2024
+  metadata: "March 2024"
   DOI: null
   arXiv: https://arxiv.org/abs/2403.02340
   URL: https://nimcso.phaseslab.org
 
-- authors: 'Adam M. Krajewski, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu'
-  title: Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials
-  metadata: February 2024
+- authors: "Adam M. Krajewski, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
+  title: "Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials"
+  metadata: "February 2024"
   DOI: null
   arXiv: https://arxiv.org/abs/2402.03528
   URL: https://nimplex.phaseslab.org
 
-- authors: 'H. Ohmoto, U. Graham, Z.-K. Liu, Y. Tsukamoto, Y. Watanabe, H. Hamasaki, and A. Chorney'
-  title: Discovery of a 3.46 billion-year-old impact crater in Western Australia
-  metadata: 'January 2022'
+- authors: "H. Ohmoto, U. Graham, Z.-K. Liu, Y. Tsukamoto, Y. Watanabe, H. Hamasaki, and A. Chorney"
+  title: "Discovery of a 3.46 billion-year-old impact crater in Western Australia"
+  metadata: "January 2022"
   DOI: https://doi.org/10.1002/essoar.10505838.1
   arXiv: null
   URL: null
 
-- authors: 'Y. Wang, J. Paz Soldan Palma, S. L. Shang, L. Q. Chen, and Z. K. Liu.'
+- authors: "Y. Wang, J. Paz Soldan Palma, S. L. Shang, L. Q. Chen, and Z. K. Liu."
   title: "Lorenz Number and Electronic Thermoelectric Figure of Merit: Thermodynamics and Direct DFT Calculations"
-  metadata: '2020'
+  metadata: "2020"
   DOI: null
   arXiv: https://arxiv.org/abs/2010.00664
   URL: null
 
-- authors: 'Shun-Li Shang, Shuang Lin, Michael C. Gao, Darrell G. Schlom, and Zi-Kui Liu'
-  title: Predictions and correlation analyses of Ellingham diagrams in binary oxides
-  metadata: February 2024
+- authors: "Shun-Li Shang, Shuang Lin, Michael C. Gao, Darrell G. Schlom, and Zi-Kui Liu"
+  title: "Predictions and correlation analyses of Ellingham diagrams in binary oxides"
+  metadata: "February 2024"
   DOI: null
   arXiv: http://arxiv.org/abs/2308.05837
   URL: null
