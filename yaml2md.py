@@ -171,7 +171,7 @@ for type in ['PhD Thesis','MS Thesis','BS Thesis']:
     No = len([entry for entry in entries if entry['type'] == type])
     for entry in entries:
         if entry['type'] == type:
-            if entry['URL']:
+            if 'URL' in entry:
                 formatted_entries += f"**{No}\.** [{entry['metadata']}]({entry['URL']})\n\n"
             else:
                 formatted_entries += f"**{No}\.** {entry['metadata']}\n\n"
