@@ -18,19 +18,19 @@ def parse_pressprints(header, file):
                 url = entry['DOI']
                 URLs.append(f"DOI: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
             except Exception as e:
-                if entry['DOI']:
+                if 'DOI' in entry and entry['DOI'] != None:
                     URLs.append(f"DOI: [{url}]({url})")
             try:
                 url = entry['arXiv']
                 URLs.append(f"arXiv: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
             except Exception as e:
-                if entry['arXiv']:
+                if 'arXiv' in entry and entry['arXiv'] != None:
                     URLs.append(f"arXiv: [{url}]({url})")
             try:
                 url = entry['URL']
                 URLs.append(f"URL: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
             except Exception as e:
-                if entry['URL']:
+                if 'URL' in entry and entry['URL'] != None:
                     URLs.append(f"URL: [{url}]({url})")
             entryString += " \| ".join(URLs) + "\n\n"
             parsed_entries += entryString
@@ -87,19 +87,19 @@ def parse_articles(header, file):
                 url = entry['DOI']
                 URLs.append(f"DOI: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
             except Exception as e:
-                if entry['DOI']:
+                if 'DOI' in entry and entry['DOI'] != None:
                     URLs.append(f"DOI: [{url}]({url})")
             try:
                 url = entry['arXiv']
                 URLs.append(f"arXiv: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
             except Exception as e:
-                if entry['arXiv']:
+                if 'arXiv' in entry and entry['arXiv'] != None:
                     URLs.append(f"arXiv: [{url}]({url})")
             try:
                 url = entry['URL']
                 URLs.append(f"URL: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
             except Exception as e:
-                if entry['URL']:
+                if 'URL' in entry and entry['URL'] != None:
                     URLs.append(f"URL: [{url}]({url})")
             
             try:
@@ -141,19 +141,19 @@ def parse_theses(header, file):
                     url = entry['URL']
                     URLs.append(f"URL: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
                 except Exception as e:
-                    if entry['URL']:
+                    if 'URL' in entry and entry['URL'] != None:
                         URLs.append(f"URL: [{url}]({url})")
                 try:
                     url = entry['arXiv']
                     URLs.append(f"arXiv: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
                 except Exception as e:
-                    if entry['arXiv']:
+                    if 'arXiv' in entry and entry['arXiv'] != None:
                         URLs.append(f"arXiv: [{url}]({url})")
                 try:
                     url = entry['Recording']
                     URLs.append(f"Recording: [{re.search(r'https?://([^/]+/)?(.+)', url).group(2)}]({url})")
                 except Exception as e:
-                    if entry['Recording']:
+                    if 'Recording' in entry and entry['Recording'] != None:
                         URLs.append(f"Recording: [{url}]({url})")
                 entryString += " \| ".join(URLs) + "\n\n"
                 parsed_entries += entryString
