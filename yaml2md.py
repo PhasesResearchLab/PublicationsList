@@ -68,7 +68,7 @@ def parse_articles(header, file):
     for year, sublist in bumpyear_dict.items():
         bumpyear_dict[year] = [item for item in sublist if 'bumpyear' not in item]
 
-    parsed_entries += f"# {header}\n---\n## {max(bumpyear_dict)//10*10}'s\n\n"
+    parsed_entries = f"# {header}\n---\n## {max(bumpyear_dict)//10*10}'s\n\n"
 
     # Create a string to store the formatted entries
     id  = len(entries) - bumpyears + 1
