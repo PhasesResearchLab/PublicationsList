@@ -131,7 +131,7 @@ def parse_theses(header, file):
         entries = yaml.safe_load(f)
 
     for type in ['PhD Thesis','MS Thesis','BS Thesis']:
-        formatted_entries += f"## {type.upper()}\n\n"
+        parsed_entries += f"## {type.upper()}\n\n"
         No = len([entry for entry in entries if entry['type'] == type])
         for entry in entries:
             if entry['type'] == type:
