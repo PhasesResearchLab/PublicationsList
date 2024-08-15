@@ -112,7 +112,13 @@ def parse_articles(header, file):
             try:
                 result = cr.works(ids = entry['DOI'])
                 if 'abstract' in result['message']:
-                    abstract = result['message']['abstract'].replace('<jats:p>', '').replace('</jats:p>', '').replace('<jats:title>Abstract</jats:title>', '')
+                    abstract = result['message']['abstract']
+                    # Remove opening <jats:p *> tags
+                    abstract = re.sub(r'<jats:p[^>]*>', '', abstract)
+                    # Remove closing </jats:p> tags
+                    abstract = re.sub(r'</jats:p>', '', abstract)
+                    # Remove <jats:title>Abstract</jats:title> tags
+                    abstract = re.sub(r'<jats:title>Abstract</jats:title>', '', abstract)
                     entryString += f"\n<details style='margin-bottom: 20px;'>\n  <summary>Abstract:</summary>\n  \n  {abstract}\n</details>"
             except Exception as e:
                 print(f"An error occurred while processing the ABSTRACT of DOI {entry['DOI']}: {e}")
