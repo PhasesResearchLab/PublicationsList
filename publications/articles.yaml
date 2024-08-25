@@ -244,15 +244,7 @@
   DOI: https://doi.org/10.1016/j.commatsci.2023.112299
   arXiv: null
   URL: null
-- ID_deprecated: '589'
-  authors: 'Zi-Kui Liu'
-  title: 'Thermodynamics and its prediction and CALPHAD modeling: Review, state of
-    the art, and perspectives'
-  metadata: 'CALPHAD 82 (2023) 102580.'
-  DOI: https://doi.org/10.1016/j.calphad.2023.102580
-  arXiv: null
-  URL: null
-- ID_deprecated: '588'
+-- ID_deprecated: '589'
   authors: 'Qian-Xin Long, Jingjing Zhou, Jialin Yan, Yong Du, Jianqiu Deng, Qingrong
     Yao, Huaiying Zhou, Shun-Li Shang, and Zi-Kui Liu'
   title: Experimental isothermal section of the system Cr-Nb-Ru at 1100C
@@ -260,6 +252,15 @@
   DOI: https://doi.org/10.1016/j.jallcom.2023.171090
   arXiv: null
   URL: null
+   ID_deprecated: '588'
+  authors: 'Zi-Kui Liu'
+  title: 'Thermodynamics and its prediction and CALPHAD modeling: Review, state of
+    the art, and perspectives'
+  metadata: 'CALPHAD 82 (2023) 102580.'
+  DOI: https://doi.org/10.1016/j.calphad.2023.102580
+  arXiv: null
+  URL: null
+
 - ID_deprecated: '587'
   authors: 'Nathan D. Smith, Stephen Lombardo, Shun-Li Shang, Zi-Kui Liu, and Hojong
     Kim'
