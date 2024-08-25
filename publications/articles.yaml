@@ -236,6 +236,7 @@
   DOI: https://doi.org/10.1016/j.calphad.2022.102527
   arXiv: null
   URL: null
+  
 - ID_deprecated: '590'
   authors: 'Songge Yang, Yi Wang, Zi-Kui Liu, and Yu Zhong'
   title: Ab initio studies on structural and thermodynamic properties of magnetic
@@ -244,6 +245,7 @@
   DOI: https://doi.org/10.1016/j.commatsci.2023.112299
   arXiv: null
   URL: null
+
 -- ID_deprecated: '589'
   authors: 'Qian-Xin Long, Jingjing Zhou, Jialin Yan, Yong Du, Jianqiu Deng, Qingrong
     Yao, Huaiying Zhou, Shun-Li Shang, and Zi-Kui Liu'
@@ -252,6 +254,7 @@
   DOI: https://doi.org/10.1016/j.jallcom.2023.171090
   arXiv: null
   URL: null
+
    ID_deprecated: '588'
   authors: 'Zi-Kui Liu'
   title: 'Thermodynamics and its prediction and CALPHAD modeling: Review, state of
@@ -270,6 +273,7 @@
   DOI: https://doi.org/10.1149/1945-7111/acd6c1
   arXiv: null
   URL: null
+
 - ID_deprecated: '586'
   authors: 'Hui Sun, Shun-Li Shang, Rushi Gong, Brandon J. Bocklund, Allison M. Beese,
     and Zi-Kui Liu'
