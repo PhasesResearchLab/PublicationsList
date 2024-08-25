@@ -236,7 +236,7 @@
   DOI: https://doi.org/10.1016/j.calphad.2022.102527
   arXiv: null
   URL: null
-  
+
 - ID_deprecated: '590'
   authors: 'Songge Yang, Yi Wang, Zi-Kui Liu, and Yu Zhong'
   title: Ab initio studies on structural and thermodynamic properties of magnetic
@@ -246,7 +246,7 @@
   arXiv: null
   URL: null
 
--- ID_deprecated: '589'
+- ID_deprecated: '589'
   authors: 'Qian-Xin Long, Jingjing Zhou, Jialin Yan, Yong Du, Jianqiu Deng, Qingrong
     Yao, Huaiying Zhou, Shun-Li Shang, and Zi-Kui Liu'
   title: Experimental isothermal section of the system Cr-Nb-Ru at 1100C
@@ -255,7 +255,7 @@
   arXiv: null
   URL: null
 
-   ID_deprecated: '588'
+- ID_deprecated: '588'
   authors: 'Zi-Kui Liu'
   title: 'Thermodynamics and its prediction and CALPHAD modeling: Review, state of
     the art, and perspectives'
