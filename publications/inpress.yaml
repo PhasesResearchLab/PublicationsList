@@ -1,3 +1,17 @@
+- authors: "Shun-Li Shang, Michael C. Gao, Yi Wang, Jingjing Li, Allison M. Beese, and Zi-Kui Liu"
+  title: "Mechanical properties of pure elements from a comprehensive first-principles study to data-driven insights"
+  metadata: "Mater. Sci. Eng. A (Accepted)"
+  arXiv: null
+  DOI: null
+  URL: null
+
+- authors: "Nigel Lee En Hew, Shun-Li Shang, and Zi-Kui Liu"
+  title: "Predicting phase transitions in PbTiO3 using zentropy through quasiharmonic phonon calculations"
+  metadata: "Phys. Rev. B (Accepted)"
+  arXiv: null
+  DOI: null
+  URL: null
+
 - authors: "Adam M. Krajewski, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
   title: "Efficient Generation of Grids and Traversal Graphs in Compositional Spaces towards Exploration and Path Planning Exemplified in Materials"
   metadata: "Accepted at the npj Unconventional Computing"
@@ -11,4 +25,3 @@
   DOI: https://doi.org/10.21105.joss.06731
   arXiv: https://arxiv.org/abs/2403.02340
   URL: https://nimcso.phaseslab.org
-
