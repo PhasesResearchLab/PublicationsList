@@ -1,3 +1,10 @@
+- authors: Adam M. Krajewski, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu
+  title: Efficient generation of grids and traversal graphs in compositional spaces towards exploration and path planning
+  metadata: npj Unconv. Comput. 1, 12 (2024)
+  arXiv: https://arxiv.org/abs/2402.03528
+  DOI: https://doi.org/10.1038/s44335-024-00012-2
+  URL: https://nimplex.phaseslab.org
+
 - authors: "Lavanya Raman, Arindam Debnath, Erik Furton, Shuang Lin, Adam Krajewski, Subrata Ghosh, Na Liu, Marcia Ahn, Bed Poudel, Shunli Shang, Shashank Priya, Zi-Kui Liu, Allison M. Beese, Wesley Reinhart, and Wenjie Li"
   title: "Data-driven inverse design of MoNbTiVWZr refractory multicomponent alloys: Microstructure and mechanical properties"
   metadata: "Mater. Sci. Eng. A 918 (2024) 147475."
@@ -32,90 +39,105 @@
   DOI: https://doi.org/10.11900/0412.1961.2024.00147
   arXiv: null
   URL: https://www.ams.org.cn/CN/10.11900/0412.1961.2024.00147
+
 - authors: "Wei Yu, Xiaoyu Chong, Yingxue Liang, Xingyu Gao, Yan Wei, Shun-Li Shang, Mengdi Gan, Yang Lin, Aimin Zhang, Haijun Wu, Li Chen, Jing Feng, Zi-Kui Liu, and Haifeng Song"
   title: "Discovering novel γ-γ' Pt-Al superalloys via lattice stability in Pt3Al induced by local atomic environment distortion"
   metadata: "Acta Mater 281 (2024) 120413."
   DOI: https://doi.org/10.1016/j.actamat.2024.120413
   arXiv: null
   URL: null
+
 - authors: "Shun-Li Shang, Michael C. Gao, David E. Alman, and Zi-Kui Liu"
   title: "Effect of hydrogen on surface energy of fcc Fe alloys: A first-principles study"
   metadata: "Mater. Today Commun. 41 (2024) 110315."
   DOI: https://doi.org/10.1016/j.mtcomm.2024.110315
   arXiv: null
   URL: null
+
 - authors: "Shun-Li Shang, Shuang Lin, Michael C. Gao, Darrell G. Schlom, and Zi-Kui Liu"
   title: "Ellingham diagrams of binary oxides"
   metadata: "APL Mater. 12 (2024) 081110."
   DOI: https://doi.org/10.1063/5.0216426
   arXiv: http://arxiv.org/abs/2308.05837
   URL: null
+
 - authors: "Hao-De Dong, Peng Zhang, Ming-Yang Qin, Jian Hui, Hong Wang, Zi-Kui Liu, and X.-D. Xiang"
   title: "Quantitative understanding of the initial stage of liquid to crystalline or amorphous phase transitions"
   metadata: "Innov. Mater. 3 (2024) 100086."
   DOI: https://doi.org/10.59717/j.xinn-mater.2024.100086
   arXiv: null
   URL: null
+
 - authors: "Cole Britt, Stephen Cluff, Zi-Kui Liu, Allison M. Beese, and Jayme Keist"
   title: "Effect of local variations in thermal history on the microstructures and hardness of a high-strength, low-alloy martensitic steel made by directed energy deposition"
   metadata: "Mater. Sci. Eng. A 910 (2024) 146890."
   DOI: https://doi.org/10.1016/j.msea.2024.146890
   arXiv: null
   URL: null
+
 - authors: "Jieru Yu, Jinglian Du, Shun-Li Shang, Hejian Fu, Yang Hao, Liubaixiang He, Zi-Kui Liu, and Feng Liu"
   title: "Tailoring the stability of iron carbides to enhance the mechanical performances of Fe-C-Mn-Si alloys"
   metadata: "J. Mater. Sci. 59 (2024) 11157-11176."
   DOI: https://doi.org/10.1007/s10853-024-09824-w
   arXiv: null
   URL: null
+
 - authors: 'Hui Sun, Bo Pan, Zhening Yang, Adam M. Krajewski, Brandon Bocklund, Shun-Li Shang, Jingjing Li, Allison M. Beese, and Zi-Kui Liu'
   title: 'MaterialsMap: A CALPHAD-based tool to design composition pathways through feasibility map for desired dissimilar materials'
   metadata: 'Materialia 36 (2024) 102153.'
   DOI: https://doi.org/10.1016/j.mtla.2024.102153
   arXiv: null
   URL: null
+
 - authors: 'Chang Zhou, Zhiyong Tang, Xiangqi Kong, Yongxiao Zhou, Mingqing Liao, Jingrui Qian, Chenxi Liu, Yuzhu Song, Zi-Kui Liu, Longlong Fan, Naike Shi, and Jun Chen'
   title: 'High-performance zero thermal expansion in Al metal matrix composites'
   metadata: 'Acta Materialia 275 (2024) 120076.'
   DOI: https://doi.org/10.1016/j.actamat.2024.120076
   arXiv: null
   URL: null
+
 - authors: 'Zi-Kui Liu'
   title: 'Quantitative Predictive Theories through Integrating Quantum, Statistical, Equilibrium, and Nonequilibrium Thermodynamics'
   metadata: 'J. Phys.: Condens. Matter. 36 (2024) 343003.'
   DOI: https://doi.org/10.1088/1361-648X/ad4762
   arXiv: https://arxiv.org/abs/2402.04143
   URL: null
+
 - authors: 'Shun-Li Shang, Rushi Gong, Michael C. Gao, Darren C. Pagan, and Zi-Kui Liu'
   title: 'Revisiting first-principles thermodynamics by quasiharmonic approach: Application to study thermal expansion of additively-manufactured Inconel 625'
   metadata: 'Scr. Mater. 250 (2024) 116200.'
   DOI: https://doi.org/10.1016/j.scriptamat.2024.116200
   arXiv: https://arxiv.org/abs/2405.09445
   URL: null
+
 - authors: 'Jieun Kim, Muqing Yu, Jung-Woo Lee, Shun-Li Shang, Gi-Yeop Kim, Pratap Pal, Jinsol Seo, Neil Campbell, Kitae Eom, Ranjani Ramachandran, Mark S. Rzchowski, Sang Ho Oh, Si-Young Choi, Zi-Kui Liu, Jeremy Levy, and Chang-Beom Eom'
   title: 'Electronic-grade epitaxial (111) KTaO3 heterostructures'
   metadata: 'Sci. Adv. 10 (2024) eadk4288.'
   DOI: https://doi.org/10.1126/sciadv.adk4288
   arXiv: https://arxiv.org/abs/2308.13180
   URL: null
+
 - authors: 'Hui Xue, Yi Song, Xinhuan Tong, Yongfeng Liang, Hui Peng, Yanli Wang, Shun-Li Shang, Zi-Kui Liu, and Junpin Lin'
   title: 'Enhancing strength and ductility in high Nb-containing TiAl alloy additively manufactured via directed energy deposition'
   metadata: 'Additive Manufacturing 86 (2024) 104194.'
   DOI: https://doi.org/10.1016/j.addma.2024.104194
   arXiv: null
   URL: null
+
 - authors: 'Kaixin Liang, Yongfeng Liang, Hui Zhang, Feiying Tang, Shun-Li Shang, Zi-Kui Liu, and Junpin Lin'
   title: 'Boosting oxygen reduction electrocatalytic performance of Cu-Nx by modulating electron structure via construction of Cu-Nx and Cu nanocluster coupling catalyst'
   metadata: 'Int. J. Hydrogen Ene. 69 (2024) 21-30.'
   DOI: https://doi.org/10.1016/j.ijhydene.2024.04.362
   arXiv: null
   URL: null
+
 - authors: 'Rushi Gong, Shun-Li Shang, Yi Wang, Jorge Paz Soldan Palma, Hojong Kim, and Zi-Kui Liu'
   title: 'Revisiting thermodynamics in (LiF, NaF, KF, CrF2)–CrF3 by first-principles calculations and CALPHAD modeling'
   metadata: 'CALPHAD 85 (2024) 102703.'
   DOI: https://doi.org/10.1016/j.calphad.2024.102703
   arXiv: null
   URL: null
+
 - authors: 'Mengdi Gan, Xiaoyu Chong, Tianlong Lu, Chao Yang, Wei Yu, Shun-Li Shang, Yi Wang, Zi-Kui Liu, and Jing Feng'
   title: 'Unveiling thermal stresses in RETaO4 (RE= Nd, Sm, Eu, Gd, Tb, Dy, Ho and Er) by first-principles calculations and finite element simulations'
   metadata: 'Acta Mater. 271 (2024) 119904.'
