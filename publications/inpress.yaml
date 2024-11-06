@@ -1,10 +1,3 @@
-- authors: "Nigel Lee En Hew, Shun-Li Shang, and Zi-Kui Liu"
-  title: "Predicting phase transitions in PbTiO3 using zentropy through quasiharmonic phonon calculations"
-  metadata: "Phys. Rev. B (Accepted)"
-  arXiv: null
-  DOI: null
-  URL: null
-
 - authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
   title: "nimCSO: A Nim package for Compositional Space Optimization"
   metadata: "Accepted at the Journal of Open Source Software (JOSS)"
