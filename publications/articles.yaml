@@ -1,3 +1,10 @@
+- authors: Nigel Lee En Hew, Shun-Li Shang, and Zi-Kui Liu
+  title: Predicting phase transitions in PbTiO<sub>3</sub> using zentropy through quasiharmonic phonon calculations
+  metadata: Phys. Rev. B 110, 184103 (2024)
+  arXiv: https://arxiv.org/abs/2402.18425 
+  DOI: https://doi.org/10.1103/PhysRevB.110.184103 
+  URL: null
+
 - authors: Adam M. Krajewski, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu
   title: Efficient generation of grids and traversal graphs in compositional spaces towards exploration and path planning
   metadata: npj Unconv. Comput. 1, 12 (2024)
