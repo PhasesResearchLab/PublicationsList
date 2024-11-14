@@ -1,10 +1,3 @@
-- authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
-  title: "nimCSO: A Nim package for Compositional Space Optimization"
-  metadata: "Accepted at the Journal of Open Source Software (JOSS)"
-  DOI: https://doi.org/10.21105.joss.06731
-  arXiv: https://arxiv.org/abs/2403.02340
-  URL: https://nimcso.phaseslab.org
-    
 - authors: "Zi-Kui Liu"
   title: "On Gibbs Equilibrium and Hillert Nonequilibrium Thermodynamics"
   metadata: "J. Phase Equilibria Diffus. (2024)"

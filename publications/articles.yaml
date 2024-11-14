@@ -1,3 +1,10 @@
+- authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
+  title: "nimCSO: A Nim package for Compositional Space Optimization"
+  metadata: "Journal of Open Source Software, 9(103), 6731."
+  DOI: https://doi.org/10.21105.joss.06731
+  arXiv: https://arxiv.org/abs/2403.02340
+  URL: https://nimcso.phaseslab.org
+
 - authors: Adam M. Krajewski, Jonathan W. Siegel, and Zi-Kui Liu
   title: Efficient structure-informed featurization and property prediction of ordered, dilute, and random atomic structures
   metadata: Computational Materials Science, Volume 247 (2025) 113495
