@@ -1,3 +1,10 @@
+- authors: Shuang Lin, Shun-Li Shang, John D. Shimanek, Yi Wang, Allison M. Beese, Zi-Kui Liu
+  title: Investigation of ideal shear strength of dilute binary and ternary Ni-based alloys using first-principles calculations, CALPHAD modeling and correlation analysis
+  metadata: Materials Today Communications, Volume 42, 2025, 111271
+  arXiv:  https://arxiv.org/abs/2404.19098
+  DOI: https://doi.org/10.1016/j.mtcomm.2024.111271 
+  URL: null
+
 - authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
   title: "nimCSO: A Nim package for Compositional Space Optimization"
   metadata: "Journal of Open Source Software, 9(103), 6731."
