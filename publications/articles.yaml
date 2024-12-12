@@ -4,7 +4,7 @@
   arXiv: https://arxiv.org/abs/2404.19098
   DOI: https://doi.org/10.1016/j.mtcomm.2024.111271 
   URL: null
-
+- bumpyear: true
 - authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
   title: "nimCSO: A Nim package for Compositional Space Optimization"
   metadata: "Journal of Open Source Software, 9(103), 6731."
