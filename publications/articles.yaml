@@ -1,20 +1,21 @@
-- authors: Shuang Lin, Shun-Li Shang, John D. Shimanek, Yi Wang, Allison M. Beese, Zi-Kui Liu
-  title: Investigation of ideal shear strength of dilute binary and ternary Ni-based alloys using first-principles calculations, CALPHAD modeling and correlation analysis
-  metadata: Materials Today Communications, Volume 42 (2025) 111271
+- authors: "Shuang Lin, Shun-Li Shang, John D. Shimanek, Yi Wang, Allison M. Beese, and Zi-Kui Liu"
+  title: "Investigation of ideal shear strength of dilute binary and ternary Ni-based alloys using first-principles calculations, CALPHAD modeling and correlation analysis"
+  metadata: "Mater. Today Commun. 42 (2025) 111271."
   arXiv: https://arxiv.org/abs/2404.19098
   DOI: https://doi.org/10.1016/j.mtcomm.2024.111271 
   URL: null
 - bumpyear: true
+ 
 - authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
   title: "nimCSO: A Nim package for Compositional Space Optimization"
-  metadata: "Journal of Open Source Software, 9(103), 6731."
+  metadata: "Journal of Open Source Software 9 (103) 6731."
   DOI: https://doi.org/10.21105.joss.06731
   arXiv: https://arxiv.org/abs/2403.02340
   URL: https://nimcso.phaseslab.org
 
-- authors: Adam M. Krajewski, Jonathan W. Siegel, and Zi-Kui Liu
-  title: Efficient structure-informed featurization and property prediction of ordered, dilute, and random atomic structures
-  metadata: Computational Materials Science, Volume 247 (2025) 113495
+- authors: "Adam M. Krajewski, Jonathan W. Siegel, and Zi-Kui Liu"
+  title: "Efficient structure-informed featurization and property prediction of ordered, dilute, and random atomic structures"
+  metadata: Comput. Mater. Sci. 247 (2025) 113495
   arXiv: https://arxiv.org/abs/2404.02849
   DOI: https://doi.org/10.1016/j.commatsci.2024.113495
   URL: https://github.com/PhasesResearchLab/pySIPFENN
