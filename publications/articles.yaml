@@ -6,26 +6,26 @@
   URL: null
 - bumpyear: true
  
-- authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
-  title: "nimCSO: A Nim package for Compositional Space Optimization"
-  metadata: "Journal of Open Source Software 9 (103) 6731."
-  DOI: https://doi.org/10.21105.joss.06731
-  arXiv: https://arxiv.org/abs/2403.02340
-  URL: https://nimcso.phaseslab.org
-
 - authors: "Adam M. Krajewski, Jonathan W. Siegel, and Zi-Kui Liu"
   title: "Efficient structure-informed featurization and property prediction of ordered, dilute, and random atomic structures"
   metadata: Comput. Mater. Sci. 247 (2025) 113495
   arXiv: https://arxiv.org/abs/2404.02849
   DOI: https://doi.org/10.1016/j.commatsci.2024.113495
   URL: https://github.com/PhasesResearchLab/pySIPFENN
-  
+
 - authors: "Zi-Kui Liu"
   title: "On Gibbs Equilibrium and Hillert Nonequilibrium Thermodynamics"
   metadata: J. Phase Equilibria Diffus. 45 (2024) 965-985
   DOI:  https://doi.org/10.1007/s11669-024-01157-0
   arXiv: https://arxiv.org/abs/2402.14231 
   URL: https://rdcu.be/dXwb6
+  
+- authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
+  title: "nimCSO: A Nim package for Compositional Space Optimization"
+  metadata: "Journal of Open Source Software 9 (2024) 6731."
+  DOI: https://doi.org/10.21105/joss.06731
+  arXiv: https://arxiv.org/abs/2403.02340
+  URL: https://nimcso.phaseslab.org
 
 - authors: Nigel Lee En Hew, Shun-Li Shang, and Zi-Kui Liu
   title: Predicting phase transitions in PbTiO<sub>3</sub> using zentropy through quasiharmonic phonon calculations
