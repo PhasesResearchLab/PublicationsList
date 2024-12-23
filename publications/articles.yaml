@@ -4,7 +4,7 @@
   arXiv: https://arxiv.org/abs/2404.19098
   DOI: https://doi.org/10.1016/j.mtcomm.2024.111271 
   URL: null
-- bumpyear: true
+
  
 - authors: "Adam M. Krajewski, Jonathan W. Siegel, and Zi-Kui Liu"
   title: "Efficient structure-informed featurization and property prediction of ordered, dilute, and random atomic structures"
@@ -12,6 +12,8 @@
   arXiv: https://arxiv.org/abs/2404.02849
   DOI: https://doi.org/10.1016/j.commatsci.2024.113495
   URL: https://github.com/PhasesResearchLab/pySIPFENN
+
+- bumpyear: true
 
 - authors: "Zi-Kui Liu"
   title: On Gibbs Equilibrium and Hillert Nonequilibrium Thermodynamics
