@@ -1,10 +1,16 @@
+- authors: "Shun-Li Shang, Michael C. Gao, and Zi-Kui Liu"
+  title: "Predicting and understanding vacancy-modified oxygen diffusion in dilute Ni-based alloys by first-principles calculations"
+  metadata: "Acta Mater. 285 (2025) 120664."
+  DOI: https://doi.org/10.1016/j.actamat.2024.120664 
+  arXiv: null
+  URL: null
+  
 - authors: "Shuang Lin, Shun-Li Shang, John D. Shimanek, Yi Wang, Allison M. Beese, and Zi-Kui Liu"
   title: "Investigation of ideal shear strength of dilute binary and ternary Ni-based alloys using first-principles calculations, CALPHAD modeling and correlation analysis"
   metadata: "Mater. Today Commun. 42 (2025) 111271."
   arXiv: https://arxiv.org/abs/2404.19098
   DOI: https://doi.org/10.1016/j.mtcomm.2024.111271 
   URL: null
-
  
 - authors: "Adam M. Krajewski, Jonathan W. Siegel, and Zi-Kui Liu"
   title: "Efficient structure-informed featurization and property prediction of ordered, dilute, and random atomic structures"
