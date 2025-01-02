@@ -1,14 +1,14 @@
-- authors: "Shun-Li Shang, Michael C. Gao, and Zi-Kui Liu"
-  title: "Predicting and understanding vacancy-modified oxygen diffusion in dilute Ni-based alloys by first-principles calculations"
-  metadata: "Acta Mater. (2024)"
-  DOI: https://doi.org/10.1016/j.actamat.2024.120664 
-  arXiv: 
-  URL: 
+- authors: "Y. Wang, J. Paz Soldan Palma, S. L. Shang, L. Q. Chen, and Z. K. Liu."
+  title: "Lorenz number and electronic thermoelectric figure of merit: Thermodynamics and direct DFT calculations"
+  metadata: "Compu. Mater. Sci. (2025)"
+  DOI: https://doi.org/10.1016/j.commatsci.2024.113647
+  arXiv: https://arxiv.org/abs/2010.00664
+  URL: null
   
 - authors: "C. Cockrell, M. Withington, H. L. Devereux, A. M. Elena, I. T. Todorov, Z. K. Liu, S. L. Shang, J. S. McCloy, P. A. Bingham, and K. Trachenko"
   title: "Thermodynamics and transport in molten chloride salts and their mixtures"
   metadata: "Phys. Chem. Chem. Phys. (2024)"
-  DOI:  
+  DOI: https://doi.org/10.1039/D4CP04180A 
   arXiv: 
   URL: 
   
