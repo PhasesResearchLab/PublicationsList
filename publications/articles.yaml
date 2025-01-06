@@ -1,3 +1,10 @@
+- authors: "Y. Wang, J. Paz Soldan Palma, S. L. Shang, L. Q. Chen, and Z. K. Liu."
+  title: "Lorenz number and electronic thermoelectric figure of merit: Thermodynamics and direct DFT calculations"
+  metadata: "Comput. Mater. Sci. 249 (2025) 113647."
+  DOI: https://doi.org/10.1016/j.commatsci.2024.113647
+  arXiv: https://arxiv.org/abs/2010.00664
+  URL: null
+  
 - authors: "Shun-Li Shang, Michael C. Gao, and Zi-Kui Liu"
   title: "Predicting and understanding vacancy-modified oxygen diffusion in dilute Ni-based alloys by first-principles calculations"
   metadata: "Acta Mater. 285 (2025) 120664."
@@ -21,7 +28,7 @@
  
 - authors: "Adam M. Krajewski, Jonathan W. Siegel, and Zi-Kui Liu"
   title: "Efficient structure-informed featurization and property prediction of ordered, dilute, and random atomic structures"
-  metadata: Comput. Mater. Sci. 247 (2025) 113495
+  metadata: Comput. Mater. Sci. 247 (2025) 113495.
   arXiv: https://arxiv.org/abs/2404.02849
   DOI: https://doi.org/10.1016/j.commatsci.2024.113495
   URL: https://github.com/PhasesResearchLab/pySIPFENN
@@ -30,28 +37,28 @@
 
 - authors: "Zi-Kui Liu"
   title: On Gibbs Equilibrium and Hillert Nonequilibrium Thermodynamics
-  metadata: J. Phase Equilibria Diffus. 45 (2024) 965-985
+  metadata: J. Phase Equilibria Diffus. 45 (2024) 965-985.
   DOI:  https://doi.org/10.1007/s11669-024-01157-0
   arXiv: https://arxiv.org/abs/2402.14231 
   URL: https://rdcu.be/dXwb6
   
 - authors: "Adam M. Krajewski, Arindam Debnath, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu"
   title: "nimCSO: A Nim package for Compositional Space Optimization"
-  metadata: Journal of Open Source Software 9 (2024) 6731
+  metadata: Journal of Open Source Software 9 (2024) 6731.
   DOI: https://doi.org/10.21105/joss.06731
   arXiv: https://arxiv.org/abs/2403.02340
   URL: https://nimcso.phaseslab.org
 
 - authors: Nigel Lee En Hew, Shun-Li Shang, and Zi-Kui Liu
   title: Predicting phase transitions in PbTiO<sub>3</sub> using zentropy through quasiharmonic phonon calculations
-  metadata: Phys. Rev. B 110, 184103 (2024)
+  metadata: Phys. Rev. B 110 (2024) 184103.
   arXiv: https://arxiv.org/abs/2402.18425 
   DOI: https://doi.org/10.1103/PhysRevB.110.184103 
   URL: null
 
 - authors: Adam M. Krajewski, Allison M. Beese, Wesley F. Reinhart, and Zi-Kui Liu
   title: Efficient generation of grids and traversal graphs in compositional spaces towards exploration and path planning
-  metadata: npj Unconv. Comput. 1, 12 (2024)
+  metadata: npj Unconv. Comput. 1 (2024) 12.
   arXiv: https://arxiv.org/abs/2402.03528
   DOI: https://doi.org/10.1038/s44335-024-00012-2
   URL: https://nimplex.phaseslab.org
