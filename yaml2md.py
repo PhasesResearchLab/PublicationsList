@@ -104,7 +104,10 @@ def parse_articles(header, file):
             
             try:
                 bibentry = cn.content_negotiation(ids = entry['DOI'], format = "bibentry")
-                entryString += f"<button onclick='copyToClipboard(\"bib{id}\")'><i class='fas fa-copy'></i></button>\n" + " \| ".join(URLs) + f"\n<p id='bib{id}' style='display: none;'>{bibentry}</p>\n\n"
+                if "@article" in bibentry:
+                    entryString += f"<button onclick='copyToClipboard(\"bib{id}\")'><i class='fas fa-copy'></i></button>\n" + " \| ".join(URLs) + f"\n<p id='bib{id}' style='display: none;'>{bibentry}</p>\n\n"
+                else:
+                    entryString += " \| ".join(URLs) + "\n\n"
             except Exception as e:
                 entryString += " \| ".join(URLs) + "\n\n"
                 print(f"An error occurred while processing the BIBENTRY DOI {entry['DOI']}: {e}")
@@ -113,16 +116,13 @@ def parse_articles(header, file):
                 result = cr.works(ids = entry['DOI'])
                 if 'abstract' in result['message']:
                     abstract = result['message']['abstract']
-                    if '<html>' or '<body>' or '</html>' or '</body>' in abstract:
-                        raise Exception(f"Abstract of DOI {entry['DOI']} contains HTML tags")
-                    else:
-                        # Remove opening <jats:p *> tags
-                        abstract = re.sub(r'<jats:p[^>]*>', '', abstract)
-                        # Remove closing </jats:p> tags
-                        abstract = re.sub(r'</jats:p>', '', abstract)
-                        # Remove <jats:title>Abstract</jats:title> tags
-                        abstract = re.sub(r'<jats:title>Abstract</jats:title>', '', abstract)
-                        entryString += f"\n<details style='margin-bottom: 20px;'>\n  <summary>Abstract:</summary>\n  \n  {abstract}\n</details>"
+                    # Remove opening <jats:p *> tags
+                    abstract = re.sub(r'<jats:p[^>]*>', '', abstract)
+                    # Remove closing </jats:p> tags
+                    abstract = re.sub(r'</jats:p>', '', abstract)
+                    # Remove <jats:title>Abstract</jats:title> tags
+                    abstract = re.sub(r'<jats:title>Abstract</jats:title>', '', abstract)
+                    entryString += f"\n<details style='margin-bottom: 20px;'>\n  <summary>Abstract:</summary>\n  \n  {abstract}\n</details>"
             except Exception as e:
                 print(f"An error occurred while processing the ABSTRACT of DOI {entry['DOI']}: {e}")
             
