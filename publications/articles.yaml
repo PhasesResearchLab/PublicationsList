@@ -1,4 +1,11 @@
-- authors: "Myers, Luke Allen and Hew, Nigel Lee En and Shang, Shun-Li and Liu, Zi-Kui"
+- authors: "C. Cockrell, M. Withington, H. L. Devereux, A. M. Elena, I. T. Todorov, Z. K. Liu, S. L. Shang, J. S. McCloy, P. A. Bingham, and K. Trachenko."
+  title: "Thermal conductivity and thermal diffusivity of molten salts: Insights from molecular dynamics simulations and fundamental bounds"
+  metadata: "J. Phys. Chem. B 129 (2025) 2271-2279."
+  DOI: https://doi.org/10.1021/acs.jpcb.4c07565
+  arXiv: https://arxiv.org/abs/2409.03775
+  URL: null
+
+- authors: "Luke Allen Myers, Nigel Lee En Hew, Shun-Li Shang, and Zi-Kui Liu"
   title: "Stripe antiferromagnetic ground-state configuration of FeSe revealed by density functional theory"
   metadata: "Phys. Rev. B 111 (2025) L121109."
   DOI: https://doi.org/10.1103/PhysRevB.111.L121109
