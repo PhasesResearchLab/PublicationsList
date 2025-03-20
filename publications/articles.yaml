@@ -1,39 +1,30 @@
 - authors: "Myers, Luke Allen and Hew, Nigel Lee En and Shang, Shun-Li and Liu, Zi-Kui"
   title: "Stripe antiferromagnetic ground-state configuration of FeSe revealed by density functional theory"
-  metadata: "Phys. Rev. B 111, L121109 (2025)"
+  metadata: "Phys. Rev. B 111 (2025) L121109."
   DOI: https://doi.org/10.1103/PhysRevB.111.L121109
   arXiv: https://arxiv.org/abs/2411.12261
   URL: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.111.L121109
 
-- authors: "D. L. McDowell and Z. K. Liu"
-  title: "Hierarchical Nonequilibrium Thermodynamics of Thermally Activated Dislocation Plasticity of Metals and Alloys"
-  metadata: "Int. J. Plast. 104303 (2025)"
-  DOI:  https://doi.org/10.1016/j.ijplas.2025.104303
-  arXiv: null
-  URL: null
-
 - authors: "Rachel Lim, Shun-Li Shang, Chihpin Chuang, Thien Phan, Zi-Kui Liu, and Darren Pagan"
   title: "Deconvoluting thermomechanical effects in X-ray diffraction data using machine learning"
-  metadata: "Acta Crystallogr. A 81, 137-150 (2025)"
+  metadata: "Acta Crystallogr. A 81 (2025) 137-150."
   DOI:  https://doi.org/10.1107/S2053273325000403
   arXiv: null
   URL: null
 
-
-- authors: "Guanchun Rui, Wenyi Zhu, Li Li, Jongcheol Lee, Yiwen Guo, Qin Zou, Siyu Wu, Ruipeng Li, Thierry Lannuzel, Fabrice Domingues Dos Santos, Mark A. Aubart, Seong H. Kim, Long-Qing Chen, Lei Zhu, Zi-Kui Liu, and Q. M. Zhang"
-  title: "Dual-functional High Entropy Polymer Exhibiting Giant Cross Energy Couplings at Low Fields"
-  metadata: "Small Sci. 2400624 (2025)"
-  DOI:  https://doi.org/10.1002/smsc.202400624
+- authors: "D. L. McDowell and Z. K. Liu"
+  title: "Hierarchical Nonequilibrium Thermodynamics of Thermally Activated Dislocation Plasticity of Metals and Alloys"
+  metadata: "Int. J. Plast. 188 (2025) 104303."
+  DOI:  https://doi.org/10.1016/j.ijplas.2025.104303
   arXiv: null
   URL: null
 
 - authors: "Qi-Jun Hong and Zi-Kui Liu"
   title: "A generalized approach for rapid entropy calculation of liquids and solids"
-  metadata: "Phys. Rev. Res. 7, L012030 (2025)"
+  metadata: "Phys. Rev. Res. 7 (2025) L012030."
   DOI: https://doi.org/10.1103/PhysRevResearch.7.L012030
   arXiv: https://arxiv.org/abs/2403.19872
   URL: null
-
 
 - authors: "Rushi Gong, Griffin Canning, Anish Dasgupta, Shun-Li Shang, Haoran He, Melanie Kirkham, Eric K. Zimmerer, Randall J. Meyer, Michael J. Janik, Robert M. Rioux, and Zi-Kui Liu."
   title: "Determination of site occupancy in the M-Pd-Zn (M = Cu, Ag, and Au) g-brass phase by CALPHAD modeling and Rietveld refinement"
