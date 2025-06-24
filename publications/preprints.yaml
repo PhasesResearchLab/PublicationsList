@@ -1,3 +1,10 @@
+- authors: "Shun-Li Shang, Nigel L. E. Hew, Rushi Gong, Cillian Cockrell, Paul A. Bingham, Xiaofeng Guo, Jingjing Li, Qi-Jun Hong, and Zi-Kui Liu"
+  title: "Achieving accurate entropy and melting point by ab initio molecular dynamics and zentropy theory: Application to fluoride and chloride molten salts"
+  metadata: "May 2025"
+  DOI: null
+  arXiv: https://doi.org/2505.10692
+  URL: null
+
 - authors: "Alexander Richter, Adam Krajewski, Zhening Yang, Allison Beese, and Zi-Kui Liu"
   title: AMMap Tool for Additive Manufacturing Design, Alloy Discovery, and Path Planning
   metadata: "May 2025"
@@ -19,13 +26,6 @@
   arXiv: https://arxiv.org/abs/2504.17027
   URL: null
   
-- authors: "Zi-Kui Liu and Shun-Li Shang"
-  title: "Revealing symmetry-broken superconducting configurations by density functional theory"
-  metadata: "February 2025"
-  DOI: null
-  arXiv: https://arxiv.org/abs/2404.00719
-  URL: https://doi.org/10.5281/zenodo.10900758
-
 - authors: "H. Ohmoto, U. Graham, Z.-K. Liu, Y. Tsukamoto, Y. Watanabe, H. Hamasaki, and A. Chorney"
   title: "Discovery of a 3.46 billion-year-old impact crater in Western Australia"
   metadata: "January 2022"
