@@ -1,6 +1,13 @@
+- authors: "Nigel Lee En Hew, Luke Allen Myers, Axel van de Walle, Shun-Li Shang, and Zi-Kui Liu"
+  title: "Density Functional Theory ToolKit (DFTTK) to Automate First-Principles Thermodynamics via the Quasiharmonic Approximation"
+  metadata: "Comput. Mater. Sci. (2025)"
+  DOI: null
+  arXiv: https://arxiv.org/abs/2504.17027
+  URL: null
+  
 - authors: "Zi-Kui Liu and Shun-Li Shang"
   title: "Revealing symmetry-broken superconducting configurations by density functional theory"
-  metadata: "Supercond. Sci. Technol (2025)."
+  metadata: "Supercond. Sci. Technol. (2025)"
   DOI: https://doi.org/10.1088/1361-6668/adedbc
   arXiv: https://arxiv.org/abs/2404.00719
   URL: null
