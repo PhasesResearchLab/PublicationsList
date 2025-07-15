@@ -1,3 +1,10 @@
+- authors: "Nigel Lee En Hew, Luke Allen Myers, Axel van de Walle, Shun-Li Shang, and Zi-Kui Liu"
+  title: "Density Functional Theory ToolKit (DFTTK) to Automate First-Principles Thermodynamics via the Quasiharmonic Approximation"
+  metadata: "Comput. Mater. Sci. 258 (2025) 114072."
+  DOI: https://doi.org/10.1016/j.commatsci.2025.114072
+  arXiv: https://arxiv.org/abs/2504.17027
+  URL: null
+
 - authors: "Alexander Richter, Adam Krajewski, Zhening Yang, Allison Beese, and Zi-Kui Liu"
   title: "AMMap Tool for Additive Manufacturing Design, Alloy Discovery, and Path Planning"
   metadata: "J. Phys. Mater. 8 (2025) 035008."
