@@ -1,3 +1,10 @@
+- authors: "Zi-Kui Liu and Shun-Li Shang"
+  title: "Revealing symmetry-broken superconducting configurations by density functional theory"
+  metadata: "Supercond. Sci. Technol. 38 (2025) 075021."
+  DOI: https://doi.org/10.1088/1361-6668/adedbc
+  arXiv: https://arxiv.org/abs/2404.00719
+  URL: null
+
 - authors: "Nigel Lee En Hew, Luke Allen Myers, Axel van de Walle, Shun-Li Shang, and Zi-Kui Liu"
   title: "Density Functional Theory ToolKit (DFTTK) to Automate First-Principles Thermodynamics via the Quasiharmonic Approximation"
   metadata: "Comput. Mater. Sci. 258 (2025) 114072."
