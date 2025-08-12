@@ -1,6 +1,6 @@
 - authors: "Ricardo Amaral, Na Liu, Bed Poudel, Wenjie Li, and Zi-Kui Liu"
   title: "Ab-initio CALPHAD modeling of NaNH2BH3 for solid-state H2 storage applications"
-  metadata: "International Journal of Hydrogen Energy. (2025)"
+  metadata: "International Journal of Hydrogen Energy (2025)"
   DOI: null
   arXiv: null
   URL: null
@@ -8,7 +8,7 @@
 - authors: "Shun-Li Shang, Michael C. Gao, and Zi-Kui Liu"
   title: "Temperature-dependent mechanical properties of Ni-based concentrated alloys: Insights from first-principles calculations"
   metadata: "High Entropy Alloys Mater. (2025)"
-  DOI: null
+  DOI: https://doi.org/10.1007/s44210-025-00068-0
   arXiv: null
   URL: null
 
@@ -18,3 +18,4 @@
   DOI: null
   arXiv: http://arxiv.org/abs/2506.00055
   URL: null
+
