@@ -1,10 +1,3 @@
-- authors: "Shun-Li Shang, Nigel L. E. Hew, Rushi Gong, Cillian Cockrell, Paul A. Bingham, Xiaofeng Guo, Jingjing Li, Qi-Jun Hong, and Zi-Kui Liu"
-  title: "Achieving accurate entropy and melting point by ab initio molecular dynamics and zentropy theory: Application to fluoride and chloride molten salts"
-  metadata: "May 2025"
-  DOI: null
-  arXiv: https://arxiv.org/abs/2505.10692
-  URL: null
-
 - authors: "Shun Wang, Shun-Li Shang, Zi-Kui Liu, Wenrui Hao"
   title: "ZENN: A Thermodynamics-Inspired Computational Framework for Heterogeneous Data-Driven Modeling"
   metadata: "May 2025"
