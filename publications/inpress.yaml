@@ -1,3 +1,10 @@
+- authors: "Shun-Li Shang, Nigel L. E. Hew, Rushi Gong, Cillian Cockrell, Paul A. Bingham, Xiaofeng Guo, Jingjing Li, Qi-Jun Hong, and Zi-Kui Liu"
+  title: "Achieving accurate entropy and melting point by ab initio molecular dynamics and zentropy theory: Application to fluoride and chloride molten salts"
+  metadata: "Journal of Molecular Liquids (2025) Accepted."
+  DOI: null
+  arXiv: https://arxiv.org/abs/2505.10692
+  URL: null
+  
 - authors: "Vitaliy G. Goncharov, William Smith, Jiahong Li, Jeffrey A. Eakin, Erik D. Reinhart, James Boncella, Luke D. Gibson, Vyacheslav S. Bryantsev, Rushi Gong, Shun-Li Shang, Zi-Kui Liu, Hongwu Xu, Aurora Clark, and Xiaofeng Guo"
   title: "A hybrid calorimetry-simulation model of mixing enthalpy for molten salt"
   metadata: "Commun. Chem. (2025) Accepted."
@@ -11,5 +18,6 @@
   DOI: https://doi.org/10.1007/s44210-025-00068-0
   arXiv: null
   URL: null
+
 
 
