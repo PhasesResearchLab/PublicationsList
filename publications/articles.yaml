@@ -1,3 +1,14 @@
+
+
+- authors: "Zi-Kui Liu"
+  title: "Revising the Theory of Cross Phenomena"
+  metadata: "J. Phys. Condens. Matter, 38, 015701 (2026)"
+  DOI: https://doi.org/10.1088/1361-648x/ae2559
+  arXiv: https://arxiv.org/abs/2507.10760
+  URL: https://iopscience.iop.org/article/10.1088/1361-648X/ae2559
+
+- bumpyear: true
+
 - authors: "Jiang, Q., Zhao, W., Zhang, M., Zhou, J.-P., Liao, M., Smolyanyuk, A., Wu, Z., Jia, C., Wei, X., Weber, C., Tarakina, N. V., Abrahams, I., Tomczak, J. M., Liu, Z.-K., Roddatis, V. & Yan"
   title: "Dynamic Atomistic Polar Structure Underpins Ultrahigh Linear Electro-Optic Coefficient in Transparent Ferroelectric Ceramics"
   metadata: "J. Am. Chem. Soc. 147 (2025) 42909-42917."
