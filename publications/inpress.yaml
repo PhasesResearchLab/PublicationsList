@@ -1,3 +1,10 @@
+- authors: "Emma C. Kindall, Natalie S. Yaw, Malin C. Dixon Wilkins, Juejing Liu, Sam Karcher, Bryn Merrill, Rushi Gong, Shun-Li Shang, Zi-Kui Liu, John McCloy, Hongwu Xu, Adrien J. Terricabras, Scarlett Widgeon Paisner, Arjen van Veelen, Joshua T. White, and Xiaofeng Guo"
+  title: "Thermal oxidation and structural behavior of uranium carbide: New insights into the U-C-O system from in situ synchrotron X-ray diffraction experiments"
+  metadata: "npj Mater. Degrad. (2025) Accepted."
+  DOI: null
+  arXiv: null
+  URL: null
+  
 - authors: "Shun Wang, Shun-Li Shang, Zi-Kui Liu, Wenrui Hao"
   title: "ZENN: A Thermodynamics-Inspired Computational Framework for Heterogeneous Data-Driven Modeling"
   metadata: "PNAS (2025) Accepted."
@@ -5,4 +12,5 @@
   arXiv: https://arxiv.org/abs/2505.09851
   URL: https://github.com/WilliamMoriaty/ZENN
   
+
 
