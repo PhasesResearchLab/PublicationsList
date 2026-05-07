@@ -1,3 +1,10 @@
+- authors: "Nigel Hew, Luke Myers, Shun-Li Shang, Zi-Kui Liu"
+  title: "pyzentropy: A Python package implementing recursive entropy for first-principles thermodynamics"
+  metadata: "Apr 2026"
+  DOI: null
+  arXiv: https://arxiv.org/abs/2604.17665
+  URL: null
+  
 - authors: "Shun-Li Shang and Zi-Kui Liu"
   title: "Symmetry-broken superconducting configurations from density functional theory for bcc and hcp metals and Nb3Sn"
   metadata: "January 2026"
