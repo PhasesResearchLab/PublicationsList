@@ -1,7 +1,7 @@
 - authors: "Shun-Li Shang and Zi-Kui Liu"
   title: "Symmetry-broken superconducting configurations from density functional theory for bcc and hcp metals and Nb3Sn"
   metadata: "Physica Scripta (2026) Accepted."
-  DOI: null
+  DOI: https://doi.org/10.1088/1402-4896/ae7ed6
   arXiv: https://arxiv.org/abs/2601.13292
   URL: null 
 
@@ -10,13 +10,6 @@
   metadata: "APL Mater. (2026) Accepted."
   DOI: null
   arXiv: https://arxiv.org/abs/2601.06716
-  URL: null
-
-- authors: "Yi Song, Hui Xue, Ximiao He, Luzheng Fu, Xinhuan Tong, Shun-Li Shang, Zi-Kui Liu, Yongfeng Liang, and Junpin Lin"
-  title: "Insights into high-temperature mechanical properties and oxidation behavior of Ta-optimized TiAl-based alloys additively manufactured via directed energy deposition"
-  metadata: "Rare Metals (2026) Accepted."
-  DOI: null
-  arXiv: null
   URL: null
 
 - authors: "Zi-Kui Liu"
