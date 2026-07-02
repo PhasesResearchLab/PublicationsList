@@ -1,3 +1,12 @@
+- authors: "Wei Yu, Xiaoyu Chong, Jingjin He, Yan Wei, Haijun Wu, Xingyu Gao, Li Chen, Shun-Li Shang, Jing Feng, Yehua Jiang, Zi-Kui Liu, Xing-Jun Liu, and Haifeng Song"
+  title: "Tuning γ/γ’ lattice misfit to discover Pt-Al-Hf superalloys with superior high-temperature compressive strength"
+  metadata: "J. Mater. Sci. Technol. 276 (2027) 204-214."
+  DOI: https://doi.org/10.1016/j.jmst.2026.04.026
+  arXiv: 
+  URL: 
+  
+- bumpyear: true
+
 - authors: "Zi-Kui Liu and Bing Li"
   title: "Perspectives on Thermodynamics for AI and AI Safety"
   metadata: "AI Sci. (2026)."
@@ -11,15 +20,6 @@
   DOI: https://doi.org/10.1007/s11669-026-01248-0
   arXiv: null
   URL: null
-
-- authors: "Wei Yu, Xiaoyu Chong, Jingjin He, Yan Wei, Haijun Wu, Xingyu Gao, Li Chen, Shun-Li Shang, Jing Feng, Yehua Jiang, Zi-Kui Liu, Xing-Jun Liu, and Haifeng Song"
-  title: "Tuning γ/γ’ lattice misfit to discover Pt-Al-Hf superalloys with superior high-temperature compressive strength"
-  metadata: "J. Mater. Sci. Technol. 276 (2027) 204-214."
-  DOI: https://doi.org/10.1016/j.jmst.2026.04.026
-  arXiv: 
-  URL: 
-  
-- bumpyear: true
 
 - authors: "Hui Xue, Xinhuan Tong, Yang Li, Yongfeng Liang, Ximiao He, Shun-Li Shang, Zi-Kui Liu, and Junpin Lin"
   title: "Simultaneous enhancement of high-temperature performance and microstructural stability in an additively manufactured TiAl composite enabled by in-situ micro/nano precipitate networks"
