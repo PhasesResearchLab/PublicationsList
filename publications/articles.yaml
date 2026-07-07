@@ -7,17 +7,17 @@
   
 - bumpyear: true
 
-- authors: "Zi-Kui Liu and Bing Li"
-  title: "Perspectives on Thermodynamics for AI and AI Safety"
-  metadata: "AI Sci. (2026)."
-  DOI: https://doi.org/10.1088/3050-287x/ae7e9b
-  arXiv: null
-  URL: null
-
 - authors: "Zi-Kui Liu"
   title: "A Unified Thermodynamic Framework: From Equilibrium and Nonequilibrium to Zentropy, Cross Phenomena, and Applications in AI and AI Safety"
   metadata: "J. Phase Equilibria Diffus. (2026)."
   DOI: https://doi.org/10.1007/s11669-026-01248-0
+  arXiv: null
+  URL: null
+  
+- authors: "Zi-Kui Liu and Bing Li"
+  title: "Perspectives on Thermodynamics for AI and AI Safety"
+  metadata: "AI Sci. 2 (2026) 022001."
+  DOI: https://doi.org/10.1088/3050-287x/ae7e9b
   arXiv: null
   URL: null
 
