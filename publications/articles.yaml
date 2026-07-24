@@ -7,9 +7,16 @@
   
 - bumpyear: true
 
+- authors: "Saji, S., Ingale, T., Odumuwagun, A., Lin, S., Smith, R. J., Li, W., Guerra, C., Clark, M., Liu, Z.-K., Beese, A., Collins, P., Dahotre, N. & Banerjee, R."
+  title: "Evolution of microstructure and elastic modulus along a Ti–6Al–4V to Ti–35Nb–7Zr–5Ta compositionally graded alloy"
+  metadata: "J. Mater. Res. Technol. 43, 5931–5944 (2026)"
+  DOI: https://doi.org/10.1016/j.jmrt.2026.07.152
+  arXiv: null
+  URL: null
+
 - authors: "Zi-Kui Liu, Wenrui Hao, Bing Li"
   title: "From neurons to algorithms: Perspectives on human intelligence and artificial intelligence"
-  metadata: "ZEntropy, 1, 2 (2026)."
+  metadata: "ZENtropy, 1, 2 (2026)."
   DOI: https://www.oaepublish.com/articles/zentropy.2025.02
   arXiv: null
   URL: null
