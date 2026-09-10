@@ -1,3 +1,5 @@
+
+
 - authors: "Wei Yu, Xiaoyu Chong, Jingjin He, Yan Wei, Haijun Wu, Xingyu Gao, Li Chen, Shun-Li Shang, Jing Feng, Yehua Jiang, Zi-Kui Liu, Xing-Jun Liu, and Haifeng Song"
   title: "Tuning γ/γ’ lattice misfit to discover Pt-Al-Hf superalloys with superior high-temperature compressive strength"
   metadata: "J. Mater. Sci. Technol. 276 (2027) 204-214."
@@ -6,6 +8,13 @@
   URL: 
   
 - bumpyear: true
+
+- authors: "Farnod, B. R., Yang, Z., Lin, S., Liu, Z. K., Beese, A. M., & Reinhart, W. F."
+  title: "Process-informed differentiable build planning of compositionally graded materials"
+  metadata: "Virtual and Physical Prototyping, 21(1) e2726720"
+  DOI: https://doi.org/10.1080/17452759.2026.2726720
+  arXiv: 
+  URL: 
 
 - authors: "Yang, S., Liu, Z. K. & Zhong, Y."
   title: "Revisiting the ab initio lattice stability of Cr with the r 2 SCAN exchange-correlation functional"
