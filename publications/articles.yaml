@@ -9,37 +9,44 @@
   
 - bumpyear: true
 
+- authors: "Zhengxiao Yu, Samuele Piandoro, Alessandro Fortunato, Teresa J. Rinker, Jennifer Bracey, Masoud M. Pour, Shun-Li Shang, Zi-Kui Liu, and Jingjing Li"
+  title: "Data-free prediction of aluminum laser welding thermal fields using a physics-informed neural network"
+  metadata: "Manuf. Lett. 49 Suppl (2026) 296-302."
+  DOI: https://doi.org/10.1016/j.mfglet.2026.07.038 
+  arXiv: null
+  URL: null
+
 - authors: "Farnod, B. R., Yang, Z., Lin, S., Liu, Z. K., Beese, A. M., & Reinhart, W. F."
   title: "Process-informed differentiable build planning of compositionally graded materials"
-  metadata: "Virtual and Physical Prototyping, 21(1) e2726720"
+  metadata: "Virtual and Physical Prototyping 21 (2026) e2726720."
   DOI: https://doi.org/10.1080/17452759.2026.2726720
   arXiv: 
   URL: 
 
 - authors: "Yang, S., Liu, Z. K. & Zhong, Y."
   title: "Revisiting the ab initio lattice stability of Cr with the r 2 SCAN exchange-correlation functional"
-  metadata: "Phys. Rev. B 114, 014423 (2026)"
+  metadata: "Phys. Rev. B 114 (2026) 014423."
   DOI: https://doi.org/10.1103/p9ck-xm2d
   arXiv: null
   URL: null
 
 - authors: "Saji, S., Ingale, T., Odumuwagun, A., Lin, S., Smith, R. J., Li, W., Guerra, C., Clark, M., Liu, Z.-K., Beese, A., Collins, P., Dahotre, N. & Banerjee, R."
   title: "Evolution of microstructure and elastic modulus along a Ti–6Al–4V to Ti–35Nb–7Zr–5Ta compositionally graded alloy"
-  metadata: "J. Mater. Res. Technol. 43, 5931–5944 (2026)"
+  metadata: "J. Mater. Res. Technol. 43 (2026) 5931–5944."
   DOI: https://doi.org/10.1016/j.jmrt.2026.07.152
   arXiv: null
   URL: null
 
 - authors: "Zi-Kui Liu, Wenrui Hao, Bing Li"
   title: "From neurons to algorithms: Perspectives on human intelligence and artificial intelligence"
-  metadata: "ZENtropy, 1, 2 (2026)."
+  metadata: "ZENtropy 1 (2026) 2."
   DOI: https://www.oaepublish.com/articles/zentropy.2025.02
   arXiv: null
   URL: null
 
 - authors: "Zi-Kui Liu"
   title: "A Unified Thermodynamic Framework: From Equilibrium and Nonequilibrium to Zentropy, Cross Phenomena, and Applications in AI and AI Safety"
-  metadata: "J. Phase Equilibria Diffus. (2026)."
+  metadata: "J. Phase Equilibria Diffus. 47 (2026) 352-371."
   DOI: https://doi.org/10.1007/s11669-026-01248-0
   arXiv: null
   URL: null
@@ -81,7 +88,7 @@
 
 - authors: "Zi-Kui Liu"
   title: "Thermodynamics-governed integration of AI and ICME for materials design: Free-energy landscape and hierarchical entropy"
-  metadata: "J. Magnes. Alloy. 102162 (2026)."
+  metadata: "J. Magnes. Alloy. 21 (2026) 102162."
   DOI: https://doi.org/10.1016/j.jma.2026.102162
   arXiv: null
   URL: null
@@ -144,7 +151,7 @@
   
 - authors: "Shun Wang, Shun-Li Shang, Zi-Kui Liu, and Wenrui Hao"
   title: "ZENN: A Thermodynamics-Inspired Computational Framework for Heterogeneous Data-Driven Modeling"
-  metadata: "PNAS 123(1), 2026, e2511227122."
+  metadata: "PNAS 123(1) (2026) e2511227122."
   DOI: https://doi.org/10.1073/pnas.2511227122
   arXiv: https://arxiv.org/abs/2505.09851
   URL: https://github.com/WilliamMoriaty/ZENN
